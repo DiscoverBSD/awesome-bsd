@@ -6,7 +6,7 @@ Structure is as follows:
  
 * [Operating Systems](#operating-systems) - official links
 * [BSD News sites](#bsd-news-sites) - where to look for news?
-* [Forums and communities](forums-and-communities)
+* [Forums and communities](#forums-and-communities)
 * BSD related software 
 
 ##Operating Systems
