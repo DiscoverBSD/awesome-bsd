@@ -4,12 +4,29 @@ This document is a database of links related to the BSD operating systems and BS
 
 Structure is as follows:
  
-* Operating Systems (official links)
-* BSD News sites (where to look for news?)
+* [Operating Systems](#operating-systems) - official links
+* [BSD News sites](#bsd-news-sites) - where to look for news?
+* [Forums and communities](forums-and-communities)
 * BSD related software 
 
 ##Operating Systems
-in this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
+In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
+
+###ArchBSD
+
+A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
+
+* [official site](http://archbsd.net/)
+* [download](http://archbsd.net/download/)
+* [forums](https://bbs.archbsd.net/)
+
+### Bitrig
+
+Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is available on current hardware platforms. The [source code](https://github.com/bitrig/bitrig) is freely available under a permissive license. 
+
+* [official site](https://www.bitrig.org/)
+* [downloads](https://www.bitrig.org/downloads.html)
+* [twitter](https://twitter.com/bitrig)
 
 ###DragonFly BSD
 DragonFly belongs to the same class of operating systems as other BSD-derived systems and Linux. It is based on the same UNIX ideals and APIs and shares ancestor code with other BSD operating systems. DragonFly provides an opportunity for the BSD base to grow in an entirely different direction from the one taken in the FreeBSD, NetBSD, and OpenBSD series. 
@@ -18,6 +35,14 @@ DragonFly belongs to the same class of operating systems as other BSD-derived sy
 * [download](http://www.dragonflybsd.org/download/)
 * [mailing list](http://www.dragonflybsd.org/mailinglists/)
 * [handbook](http://www.dragonflybsd.org/docs/newhandbook/)
+
+### EdgeBSD
+
+EdgeBSD is a new member of the family of [BSD](http://en.wikipedia.org/wiki/BSD)-based Operating Systems, starting development with the current [NetBSD](http://www.netbsd.org/) codebase with [Git](http://git-scm.com/) for Source Code Management. Package management is based on [pkgsrc](http://pkgsrc.org/).
+
+* [official site](https://www.edgebsd.org/)
+* [projects](https://www.edgebsd.org/edgebsd/project)
+* [twitter](https://twitter.com/EdgeBSD)
 
 ###FreeBSD
 FreeBSD is an advanced computer operating system used to power modern servers, desktops and embedded [platforms](https://www.freebsd.org/platforms/). A large [community](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributors/staff-committers.html) has continually developed it for more than thirty years. Its advanced networking, security and storage features have made FreeBSD the platform of choice for many of the [busiest web](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/nutshell.html#introduction-nutshell-users) sites and most pervasive embedded networking and storage devices.
@@ -66,13 +91,6 @@ PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known wid
 * [forums](https://forums.pcbsd.org/)
 * [mailing list](http://lists.pcbsd.org/mailman/listinfo)
 
-###ArchBSD
-
-A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
-
-* [official site](http://archbsd.net/)
-* [download](http://archbsd.net/download/)
-* [forums](https://bbs.archbsd.net/)
 
 ##BSD News sites
 In this section you can find sites presenting news about BSD. 
@@ -80,5 +98,7 @@ In this section you can find sites presenting news about BSD.
 ####DiscoverBSD.com
 
 ####BSDSec.net
+
+##Forums and Communities
 
 
