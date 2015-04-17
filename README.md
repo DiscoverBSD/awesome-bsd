@@ -6,7 +6,7 @@ Structure is as follows:
  
 * [Operating Systems](#operating-systems) - official links
 * [BSD News sites](#bsd-news-sites) - where to look for news?
-* [Forums and communities](#forums-and-communities)
+* [Forums and communities](#forums-and-communities) - reddit, forums, meetups etc
 * BSD related software 
 
 ##Operating Systems
@@ -27,6 +27,14 @@ Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is
 * [official site](https://www.bitrig.org/)
 * [downloads](https://www.bitrig.org/downloads.html)
 * [twitter](https://twitter.com/bitrig)
+
+###BSD Router Project
+
+BSD Router Project (BSDRP) is an embedded free and open source router distribution based on [FreeBSD](http://www.freebsd.org/) with [Quagga](http://www.quagga.net/) and [Bird](http://bird.network.cz/).
+
+* [official site](http://bsdrp.net/)
+* [download](http://bsdrp.net/downloads?DokuWiki=e8a2af21cc91416f910347e472b73841)
+* [mailing list](http://bsdrp.net/community/mailing_lists)
 
 ###DragonFly BSD
 DragonFly belongs to the same class of operating systems as other BSD-derived systems and Linux. It is based on the same UNIX ideals and APIs and shares ancestor code with other BSD operating systems. DragonFly provides an opportunity for the BSD base to grow in an entirely different direction from the one taken in the FreeBSD, NetBSD, and OpenBSD series. 
@@ -101,4 +109,22 @@ In this section you can find sites presenting news about BSD.
 
 ##Forums and Communities
 
+### Forums
+* [Unix.com](http://www.unix.com/bsd/)
+* [Daemon Forums](http://daemonforums.org/)
+* [BSDForen](http://www.bsdforen.de/)
 
+### Reddit
+
+* [/r/bsd](https://www.reddit.com/r/bsd)
+* [/r/bsdsec](https://www.reddit.com/r/bsdsec)
+* [/r/dragonflybsd](https://www.reddit.com/r/dragonflybsd)
+* [/r/freebsd](https://www.reddit.com/r/freebsd)
+* [/r/netbsd](https://www.reddit.com/r/netbsd)
+* [/r/openbsd](https://www.reddit.com/r/openbsd)
+* [/r/opnsesne](https://www.reddit.com/r/opnsense)
+* [/r/unixporn](https://www.reddit.com/r/unixporn)
+
+### Meetups
+
+* [BSD Meetup](http://bsd.meetup.com/)
