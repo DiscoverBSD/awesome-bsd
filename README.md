@@ -2,7 +2,7 @@
 
 This document is a database of links related to the BSD operating systems and BSD software license.
 
-Structure is as follows:
+[Structure](https://github.com/DiscoverBSD/BSD-Links/issues/1) is as follows:
  
 * [Operating Systems](#operating-systems) - official links
 * [BSD News](#bsd-news) - where to look for news?
