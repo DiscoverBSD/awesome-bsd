@@ -5,7 +5,7 @@ This document is a database of links related to the BSD operating systems and BS
 Structure is as follows:
  
 * [Operating Systems](#operating-systems) - official links
-* [BSD News sites](#bsd-news-sites) - where to look for news?
+* [BSD News](#bsd-news) - where to look for news?
 * [Forums and communities](#forums-and-communities) - reddit, forums, meetups etc
 * BSD related software 
 
@@ -100,19 +100,34 @@ PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known wid
 * [mailing list](http://lists.pcbsd.org/mailman/listinfo)
 
 
-##BSD News sites
+##BSD News
+
 In this section you can find sites presenting news about BSD. 
 
-####DiscoverBSD.com
+### News sites
 
-####BSDSec.net
+* [BSDSec.net](https://bsdsec.net/) - deadsimple BSD Security Advisories and Announcements 
+* [DiscoverBSD.com](https://www.discoverbsd.com/) - Discovering the Way of the BSD
+* [DragonFly BSD Digest](https://www.dragonflydigest.com/) - A running description of activity related to DragonFly BSD.
+* [FreeBSDNews](https://www.freebsdnews.com/) - A blog advocating FreeBSD and offering project news and advice.
+* [NetBSD Planet](http://netbsd.fi/)
+* [OpenBSD Journal](http://undeadly.org/) - A resource for the OpenBSD community
+* [Phoronix](http://www.phoronix.com/scan.php?page=news_topic&q=BSD) 
+* [Planet FreeBSD](http://blogs.freebsdish.org/)
+* [Slashdot](http://bsd.slashdot.org/) - BSD section of the popular Slashdot open source news and forum site.
+
+### Podcasts 
+
+* [BSDNow](http://www.bsdnow.tv/) -  weekly BSD podcast, featuring news, interviews and tutorials, in MP3, OGG and MP4
+* [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 
 ##Forums and Communities
 
 ### Forums
-* [Unix.com](http://www.unix.com/bsd/)
-* [Daemon Forums](http://daemonforums.org/)
+
 * [BSDForen](http://www.bsdforen.de/)
+* [Daemon Forums](http://daemonforums.org/)
+* [Unix.com](http://www.unix.com/bsd/)
 
 ### Reddit
 
