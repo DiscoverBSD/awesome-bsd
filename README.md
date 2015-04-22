@@ -12,6 +12,16 @@ This document is a database of links related to the BSD operating systems and BS
 ##Operating Systems
 In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
 
+###ÆrieBSD
+
+A free BSD4.4-based operating system which tends to be clear from GPL-licensed software. Main work is concentrated around fresh new [toolchain](https://github.com/mcikye/tools), for which base system also acts as a comprehensive test suite.
+
+* [official site](http://aeriebsd.org)
+* [download](ftp://aeriebsd.org/pub/AerieBSD)
+* [unofficial download](http://rutracker.org/forum/viewtopic.php?t=4511449)
+* [documentation](http://aeriebsd.org/man)
+* [mailing list](http://aeriebsd.org/lists.html)
+
 ###ArchBSD
 
 A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
