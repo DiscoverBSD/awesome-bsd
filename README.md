@@ -17,7 +17,7 @@ In this section you can find official BSD OSes links (in alphabethical order ) w
 A free BSD4.4-based operating system which tends to be clear from GPL-licensed software. Main work is concentrated around fresh new [toolchain](https://github.com/mcikye/tools), for which base system also acts as a comprehensive test suite.
 
 * [official site](http://aeriebsd.org)
-* [download](ftp://aeriebsd.org/pub/AerieBSD)
+* [download](http://www.mail-archive.com/hackers@aeriebsd.org/msg00181.html)
 * [unofficial download](http://rutracker.org/forum/viewtopic.php?t=4511449)
 * [documentation](http://aeriebsd.org/man)
 * [mailing list](http://aeriebsd.org/lists.html)
