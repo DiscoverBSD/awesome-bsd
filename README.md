@@ -153,3 +153,7 @@ In this section you can find sites presenting news about BSD.
 ### Meetups
 
 * [BSD Meetup](http://bsd.meetup.com/)
+
+### User Groups
+
+* [New Delhi BSD User Group](http://ndbug.in)
