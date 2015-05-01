@@ -156,4 +156,8 @@ In this section you can find sites presenting news about BSD.
 
 ### User Groups
 
+* [NetBSD Groups](https://www.netbsd.org/community/groups.html)
+* [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
+* [OpenBSD Groups](http://www.openbsd.org/groups.html) 
+* [MetaBUG](http://www.metabug.org/) - A Global BSD Users Group Federation
 * [New Delhi BSD User Group](http://ndbug.in)
