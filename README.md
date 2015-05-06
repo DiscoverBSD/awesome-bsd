@@ -54,7 +54,7 @@ DragonFly belongs to the same class of operating systems as other BSD-derived sy
 * [mailing list](http://www.dragonflybsd.org/mailinglists/)
 * [handbook](http://www.dragonflybsd.org/docs/newhandbook/)
 
-### EdgeBSD
+###EdgeBSD
 
 EdgeBSD is a new member of the family of [BSD](http://en.wikipedia.org/wiki/BSD)-based Operating Systems, starting development with the current [NetBSD](http://www.netbsd.org/) codebase with [Git](http://git-scm.com/) for Source Code Management. Package management is based on [pkgsrc](http://pkgsrc.org/).
 
@@ -71,6 +71,15 @@ FreeBSD is an advanced computer operating system used to power modern servers, d
 * [twitter](https://twitter.com/freebsd)
 * [handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/)
 * [mailing list](https://www.freebsd.org/community/mailinglists.html)
+
+###GhostBSD
+GhostBSD is a user-friendly BSD operating system built on top of FreeBSD. FreeBSD is known to be a solid, powerful, secure and stable server operating system, providing an excellent base for a desktop operating system.
+GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
+
+* [official site](http://www.ghostbsd.org)
+* [download](http://www.ghostbsd.org/download)
+* [forums](http://forums.ghostbsd.org/)
+* [handbook](http://wiki.ghostbsd.org/index.php?title=GhostBSD_User_Handbook)
 
 ###MidnightBSD
 
@@ -98,9 +107,15 @@ The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like opera
 * [mailing list](http://www.openbsd.org/mail.html)
 * [twitter](https://twitter.com/openbsd)
 
+### OPNsense
+OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall and routing platform. OPNsense includes most of the features available in expensive commercial firewalls, and more in many cases. OPNsense® is a fork of pfSense® that in its turn has been forked from m0n0wall®.
+
+* [official site](https://opnsense.org)
+* [download](https://opnsense.org/download/)
+* [mailing list](https://opnsense.org/support-overview/mailing-list/)
+* [twitter](https://twitter.com/opnsense)
+
 ###PC-BSD
-
-
 PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known widely for its stability and security in server environments, FreeBSD provides an excellent base on which to build a desktop operating system. PC-BSD uses a host of popular open source window managers and uses a custom-tailored application installer that puts popular applications in easy reach of users.
 
 * [official site](http://www.pcbsd.org/)
@@ -108,6 +123,21 @@ PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known wid
 * [documentation](http://www.pcbsd.org/en/documentation/)
 * [forums](https://forums.pcbsd.org/)
 * [mailing list](http://lists.pcbsd.org/mailman/listinfo)
+
+###pfSense
+pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. 
+
+* [official site](https://www.pfsense.org/)
+* [download](https://www.pfsense.org/download/)
+* [forums](https://forum.pfsense.org/)
+* [mailing list](https://www.pfsense.org/get-involved/)
+
+
+###ZRouter
+ZRouter.org is a FreeBSD based firmware for embedded devices.
+
+* [official site](http://zrouter.org/)
+* [files](http://zrouter.org/projects/zrouter/files)
 
 
 ##BSD News
@@ -156,8 +186,8 @@ In this section you can find sites presenting news about BSD.
 
 ### User Groups
 
-* [NetBSD Groups](https://www.netbsd.org/community/groups.html)
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
 * [OpenBSD Groups](http://www.openbsd.org/groups.html) 
 * [MetaBUG](http://www.metabug.org/) - A Global BSD Users Group Federation
+* [NetBSD Groups](https://www.netbsd.org/community/groups.html)
 * [New Delhi BSD User Group](http://ndbug.in)
