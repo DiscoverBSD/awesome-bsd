@@ -22,14 +22,6 @@ A free BSD4.4-based operating system which tends to be clear from GPL-licensed s
 * [documentation](http://aeriebsd.org/man)
 * [mailing list](http://aeriebsd.org/lists.html)
 
-###ArchBSD
-
-A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
-
-* [official site](http://archbsd.net/)
-* [download](http://archbsd.net/download/)
-* [forums](https://bbs.archbsd.net/)
-
 ### Bitrig
 
 Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is available on current hardware platforms. The [source code](https://github.com/bitrig/bitrig) is freely available under a permissive license. 
@@ -114,6 +106,14 @@ OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall 
 * [download](https://opnsense.org/download/)
 * [mailing list](https://opnsense.org/support-overview/mailing-list/)
 * [twitter](https://twitter.com/opnsense)
+
+###PacBSD
+
+A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
+
+* [official site](http://pacbsd.org/)
+* [download](http://pacbsd.org/download/)
+* [forums](https://bbs.archbsd.org/)
 
 ###PC-BSD
 PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known widely for its stability and security in server environments, FreeBSD provides an excellent base on which to build a desktop operating system. PC-BSD uses a host of popular open source window managers and uses a custom-tailored application installer that puts popular applications in easy reach of users.
