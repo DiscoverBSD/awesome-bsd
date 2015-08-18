@@ -159,6 +159,7 @@ In this section you can find sites presenting news about BSD.
 
 ### News sites
 
+* [#BSDHistory](https://bsdhistory.discoverbsd.com/) - twitter-sized facts about BSDs
 * [BSDSec.net](https://bsdsec.net/) - deadsimple BSD Security Advisories and Announcements 
 * [DiscoverBSD.com](https://www.discoverbsd.com/) - Discovering the Way of the BSD
 * [DragonFly BSD Digest](https://www.dragonflydigest.com/) - A running description of activity related to DragonFly BSD.
