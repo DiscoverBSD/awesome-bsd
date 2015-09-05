@@ -73,6 +73,13 @@ GhostBSD aims to provide a familiar workstation with all of the features and ben
 * [forums](http://forums.ghostbsd.org/)
 * [handbook](http://wiki.ghostbsd.org/index.php?title=GhostBSD_User_Handbook)
 
+###LiteBSD
+LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support, and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
+
+* [official site](https://github.com/sergev/LiteBSD/wiki)
+* [download](http://litebsd.org/wiki/autobuild.php)
+
+
 ###MidnightBSD
 
 MidnightBSD is a new BSD-derived operating system developed with desktop users in mind. It includes all the software you'd expect for your daily tasks — email, web browsing, word processing, gaming, and much more. With a small community of dedicated developers, MidnightBSD strives to create an easy-to-use operating system everyone can use, freely. Available for x86, AMD64 and as Virtual Machines.
