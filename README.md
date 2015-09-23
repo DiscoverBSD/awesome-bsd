@@ -73,6 +73,14 @@ GhostBSD aims to provide a familiar workstation with all of the features and ben
 * [forums](http://forums.ghostbsd.org/)
 * [handbook](http://wiki.ghostbsd.org/index.php?title=GhostBSD_User_Handbook)
 
+###HardenedBSD
+HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is implementing many exploit mitigation and security technologies on top of FreeBSD.
+
+* [official site](https://hardenedbsd.org)
+* [download](http://jenkins.hardenedbsd.org/)
+* [mailing list](https://hardenedbsd.org/content/mailing-lists)
+* [wiki](https://github.com/HardenedBSD/hardenedBSD/wiki)
+
 ###LiteBSD
 LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support, and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
 
@@ -88,6 +96,14 @@ MidnightBSD is a new BSD-derived operating system developed with desktop users i
 * [download](http://www.midnightbsd.org/download/)
 * [mailing list](http://www.midnightbsd.org/mailman/listinfo/)
 * [twitter](https://twitter.com/midnightbsd)
+
+###MirOS
+
+MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and sparc systems. It is based on 4.4BSD-Lite (mostly OpenBSD, some NetBSD®). The MirPorts Framework is a portable ports tree to facilitate the installation of additional software. The project also releases some portable software: mksh, a pdksh-based shell; PaxMirabilis, an archiver for various formats; MirMake, a framework for building software; MirNroff, an AT&T nroff based man page (and text document) formatter; MirCksum, a flexible checksumming and hash generation tool; and some more.
+
+* [official site](https://www.mirbsd.org)
+* [download](https://www.mirbsd.org/getting.htm)
+* [mailing list](https://www.mirbsd.org/rss.htm)
 
 
 ###NetBSD
