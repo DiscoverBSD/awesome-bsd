@@ -81,6 +81,14 @@ HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is i
 * [mailing list](https://hardenedbsd.org/content/mailing-lists)
 * [wiki](https://github.com/HardenedBSD/hardenedBSD/wiki)
 
+
+###Jibbed
+NetBSD for USB Flash Drives. The images contain a default installation of NetBSD 7.0 that works directly from the flash drive without touching your hard drive. With it, you can try out NetBSD, configure and customize the system directly on the the flash drive.
+
+* [official site](http://www.jibbed.org/)
+* [download](http://www.jibbed.org/download.html)
+* [community](http://www.jibbed.org/community.html)
+
 ###LiteBSD
 LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support, and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
 
