@@ -7,6 +7,7 @@ This document is a database of links related to the BSD operating systems and BS
 * [Operating Systems](#operating-systems) - official links
 * [BSD News](#bsd-news) - where to look for news?
 * [Forums and communities](#forums-and-communities) - reddit, forums, meetups etc
+* [Learning](#learning) - where to learn BSD
 * BSD related software 
 
 ##Operating Systems
@@ -243,3 +244,7 @@ In this section you can find sites presenting news about BSD.
 * [OpenBSD Groups](http://www.openbsd.org/groups.html)
 * [Southeast Michigan BSD User Group](http://www.semibug.org/)
 
+##Learning
+
+* [The BSD Certification Group](http://www.bsdcertification.org/) - The BSD Certification Group Inc. is a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD based operating systems.
+* [TeachBSD](http://teachbsd.org/) - Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
