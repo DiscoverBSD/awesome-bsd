@@ -214,6 +214,7 @@ In this section you can find sites presenting news about BSD.
 
 * [BSDNow](http://www.bsdnow.tv/) -  weekly BSD podcast, featuring news, interviews and tutorials, in MP3, OGG and MP4
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
+* [Garbage](http://garbage.fm/) - A podcast about technology, much of it garbage
 
 ##Forums and Communities
 
