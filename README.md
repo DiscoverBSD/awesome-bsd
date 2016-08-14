@@ -235,6 +235,7 @@ In this section you can find sites presenting news about BSD.
 * [/r/openbsd](https://www.reddit.com/r/openbsd)
 * [/r/opnsesne](https://www.reddit.com/r/opnsense)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
+* [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
 
 ### Meetups
 
