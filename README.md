@@ -130,6 +130,8 @@ The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like opera
 * [download](http://www.openbsd.org/ftp.html)
 * [mailing list](http://www.openbsd.org/mail.html)
 * [twitter](https://twitter.com/openbsd)
+* [openbsd-awesome](https://github.com/ligurio/openbsd-awesome) - the curated list of awesome OpenBSD products, vacancies, resources.
+
 
 ### OPNsense
 OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall and routing platform. OPNsense includes most of the features available in expensive commercial firewalls, and more in many cases. OPNsense® is a fork of pfSense® that in its turn has been forked from m0n0wall®.
