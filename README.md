@@ -177,6 +177,13 @@ A long time ago, a very smart guy asked a very simple question. "Why do firewall
 * [downloads](http://www.smallwall.org/download.html)
 * [forums](http://smallwall.freeforums.net/)
 
+### Snasci OS
+
+Snasci OS is a general purpose operating system built upon OpenBSD and the Lumina Desktop Environment. Designed to be very light weight, Snasci OS is quick, responsive and secure. Whether you want a pretty desktop to surf the web, read emails, work with documents or a hardened server platform, Snasci OS provides a nice balance between the two, without compromising on either. Snasci OS comes with a few applications pre-installed. Firefox, Thunderbird and LibreOffice are all available out-of-the-box.
+
+* [official site](https://snasci.com/SnasciOS)
+
+
 ###t1n1wall
 As m0n0wall decided to close it's doors, and no further development is planned, people have created this fork.
 
