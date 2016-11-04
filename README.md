@@ -1,4 +1,4 @@
-#BSD-Links
+# Awesome BSD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This document is a database of links related to the BSD operating systems and BSD software license.
 
@@ -264,3 +264,13 @@ In this section you can find sites presenting news about BSD.
 
 * [The BSD Certification Group](http://www.bsdcertification.org/) - The BSD Certification Group Inc. is a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD based operating systems.
 * [TeachBSD](http://teachbsd.org/) - Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
+
+##Books
+
+* [FreeBSD Mastery: Specialty Filesystems](https://www.michaelwlucas.com/os/fmsf)
+* [FreeBSD Mastery: Storage Essentials](https://www.michaelwlucas.com/os/fmse)
+* [FreeBSD Mastery: ZFS](https://www.michaelwlucas.com/os/fmzfs)
+* [FreeBSD Mastery: Advanced ZFS](https://www.michaelwlucas.com/os/fmaz)
+* [Absolute FreeBSD 2nd Ed](https://www.michaelwlucas.com/os/af2e)
+* [Absolute OpenBSD](https://www.michaelwlucas.com/os/ao2e)
+* [The Design and Implementation of the FreeBSD Operating System 2nd Ed](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=W4TYR1MZ2QQR50RECWXQ)
