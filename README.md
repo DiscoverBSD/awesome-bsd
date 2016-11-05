@@ -284,3 +284,5 @@ In this section you can find sites presenting news about BSD.
 * [The Design and Implementation of the FreeBSD Operating System 2nd Ed](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=W4TYR1MZ2QQR50RECWXQ)
 * [FreeBSD Device Drivers](https://www.nostarch.com/bsddrivers.htm)
 * [Designing BSD Rootkits: An Introduction to Kernel Hacking](https://www.nostarch.com/rootkits.htm)
+* [The pkgsrc guide](https://www.netbsd.org/docs/pkgsrc/)
+* [The NetBSD Guide](http://www.netbsd.org/docs/guide/en/)
