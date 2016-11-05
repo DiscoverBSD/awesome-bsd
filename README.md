@@ -15,7 +15,6 @@ This document is a database of links related to the BSD operating systems and BS
 In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
 
 ### ÆrieBSD
-
 A free BSD4.4-based operating system which tends to be clear from GPL-licensed software. Main work is concentrated around fresh new [toolchain](https://github.com/mcikye/tools), for which base system also acts as a comprehensive test suite.
 
 * [official site](http://aeriebsd.org)
@@ -25,7 +24,6 @@ A free BSD4.4-based operating system which tends to be clear from GPL-licensed s
 * [mailing list](http://aeriebsd.org/lists.html)
 
 ### Bitrig
-
 Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is available on current hardware platforms. The [source code](https://github.com/bitrig/bitrig) is freely available under a permissive license. 
 
 * [official site](https://www.bitrig.org/)
@@ -33,7 +31,6 @@ Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is
 * [twitter](https://twitter.com/bitrig)
 
 ### BSD Router Project
-
 BSD Router Project (BSDRP) is an embedded free and open source router distribution based on [FreeBSD](http://www.freebsd.org/) with [Quagga](http://www.quagga.net/) and [Bird](http://bird.network.cz/).
 
 * [official site](http://bsdrp.net/)
@@ -49,7 +46,6 @@ DragonFly belongs to the same class of operating systems as other BSD-derived sy
 * [handbook](http://www.dragonflybsd.org/docs/newhandbook/)
 
 ### EdgeBSD
-
 EdgeBSD is a new member of the family of [BSD](http://en.wikipedia.org/wiki/BSD)-based Operating Systems, starting development with the current [NetBSD](http://www.netbsd.org/) codebase with [Git](http://git-scm.com/) for Source Code Management. Package management is based on [pkgsrc](http://pkgsrc.org/).
 
 * [official site](https://www.edgebsd.org/)
@@ -99,7 +95,6 @@ LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, o
 
 
 ### MidnightBSD
-
 MidnightBSD is a new BSD-derived operating system developed with desktop users in mind. It includes all the software you'd expect for your daily tasks — email, web browsing, word processing, gaming, and much more. With a small community of dedicated developers, MidnightBSD strives to create an easy-to-use operating system everyone can use, freely. Available for x86, AMD64 and as Virtual Machines.
 
 * [official site](http://www.midnightbsd.org/)
@@ -108,7 +103,6 @@ MidnightBSD is a new BSD-derived operating system developed with desktop users i
 * [twitter](https://twitter.com/midnightbsd)
 
 ### MirOS
-
 MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and sparc systems. It is based on 4.4BSD-Lite (mostly OpenBSD, some NetBSD®). The MirPorts Framework is a portable ports tree to facilitate the installation of additional software. The project also releases some portable software: mksh, a pdksh-based shell; PaxMirabilis, an archiver for various formats; MirMake, a framework for building software; MirNroff, an AT&T nroff based man page (and text document) formatter; MirCksum, a flexible checksumming and hash generation tool; and some more.
 
 * [official site](https://www.mirbsd.org)
@@ -150,7 +144,6 @@ OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall 
 * [twitter](https://twitter.com/opnsense)
 
 ### PacBSD
-
 A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
 
 * [official site](http://pacbsd.org/)
@@ -158,7 +151,7 @@ A lightweight and flexible BSD® distribution that tries to Keep It Simple. Curr
 * [forums](https://bbs.archbsd.org/)
 
 ### PC-BSD
-PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known widely for its stability and security in server environments, FreeBSD provides an excellent base on which to build a desktop operating system. PC-BSD uses a host of popular open source window managers and uses a custom-tailored application installer that puts popular applications in easy reach of users.
+PC-BSD has evolved into [TrueOS](#trueos). PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known widely for its stability and security in server environments, FreeBSD provides an excellent base on which to build a desktop operating system. PC-BSD uses a host of popular open source window managers and uses a custom-tailored application installer that puts popular applications in easy reach of users.
 
 * [official site](http://www.pcbsd.org/)
 * [download](http://www.pcbsd.org/en/download.html)
@@ -186,7 +179,6 @@ A long time ago, a very smart guy asked a very simple question. "Why do firewall
 * [forums](http://smallwall.freeforums.net/)
 
 ### Snasci OS
-
 Snasci OS is a general purpose operating system built upon OpenBSD and the Lumina Desktop Environment. Designed to be very light weight, Snasci OS is quick, responsive and secure. Whether you want a pretty desktop to surf the web, read emails, work with documents or a hardened server platform, Snasci OS provides a nice balance between the two, without compromising on either. Snasci OS comes with a few applications pre-installed. Firefox, Thunderbird and LibreOffice are all available out-of-the-box.
 
 * [official site](https://snasci.com/SnasciOS)
@@ -198,6 +190,15 @@ As m0n0wall decided to close it's doors, and no further development is planned, 
 * [official site](http://t1n1wall.com/)
 * [downloads](http://sourceforge.net/projects/t1n1wall/files/?source=navbar)
 * [forums](http://forums.t1n1wall.com/)
+
+### TrueOS
+Formerly known as [PC-BSD](#pc-bsd). What makes TrueOS® different?  TrueOS® is based on the legendary security and stability of FreeBSD. TrueOS® follows FreeBSD Current, with the latest drivers, security updates, and packages available. Also, our brand new driver package brings in support for newer Intel graphics chipsets and hardware. We pride ourselves on providing industry leading features like Personacrypt, which allows encrypting your user home directory and carrying it to other TrueOS® machines. TrueOS® also supports GELI full disk encryption, keeping your data secure even in the case of physical theft. So go ahead and give us a try. If you hit any snags along the way, we are glad to help.
+
+* [official site](https://www.trueos.org/)
+* [download](https://www.trueos.org/downloads)
+* [documentation](https://www.trueos.org/handbook/trueos.html)
+* [forums](https://discourse.trueos.org/)
+* [mailing list](http://lists.trueos.org/mailman/listinfo)
 
 ### ubuntuBSD
 The ease and familiarity of Ubuntu with the rock-solid stability and performance of the FreeBSD kernel.
