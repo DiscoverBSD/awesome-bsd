@@ -133,6 +133,7 @@ The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like opera
 * [mailing list](http://www.openbsd.org/mail.html)
 * [twitter](https://twitter.com/openbsd)
 * [openbsd-awesome](https://github.com/ligurio/openbsd-awesome) - the curated list of awesome OpenBSD products, vacancies, resources.
+* [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/)
 
 
 ### OPNsense
