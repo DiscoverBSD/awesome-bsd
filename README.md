@@ -252,7 +252,8 @@ In this section you can find sites presenting news about BSD.
 * [/r/freebsd](https://www.reddit.com/r/freebsd)
 * [/r/netbsd](https://www.reddit.com/r/netbsd)
 * [/r/openbsd](https://www.reddit.com/r/openbsd)
-* [/r/opnsesne](https://www.reddit.com/r/opnsense)
+* [/r/opnsesne](https://www.reddit.com/r/opnsense) - private 
+* [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
 * [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
 
