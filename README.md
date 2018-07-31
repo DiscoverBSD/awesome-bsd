@@ -263,6 +263,8 @@ In this section you can find sites presenting news about BSD.
 
 ### User Groups
 
+* [BSD-PL](https://bsd-pl.org/en) - Polish BSD User Group
+* [HELBUG](http://helbug.fi) - Helsinki area BSD User Group
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
 * [MetaBUG](http://www.metabug.org/) - A Global BSD Users Group Federation
 * [NetBSD Groups](https://www.netbsd.org/community/groups.html)
