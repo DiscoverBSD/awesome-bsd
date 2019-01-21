@@ -79,6 +79,11 @@ HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is i
 * [mailing list](https://hardenedbsd.org/content/mailing-lists)
 * [wiki](https://github.com/HardenedBSD/hardenedBSD/wiki)
 
+### Isotop
+Isotop is a customised OpenBSD installation media. Its goal is to provide a ready-to-use environment to help you get in touch with OpenBSD.
+
+* [official website](https://3hg.fr/Isos/isotop/index-en.html)
+* [download](https://3hg.fr/Isos/isotop/Install.html)
 
 ### Jibbed
 NetBSD for USB Flash Drives. The images contain a default installation of NetBSD 7.0 that works directly from the flash drive without touching your hard drive. With it, you can try out NetBSD, configure and customize the system directly on the the flash drive.
