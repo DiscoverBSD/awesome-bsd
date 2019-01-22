@@ -37,6 +37,11 @@ BSD Router Project (BSDRP) is an embedded free and open source router distributi
 * [download](http://bsdrp.net/downloads?DokuWiki=e8a2af21cc91416f910347e472b73841)
 * [mailing list](http://bsdrp.net/community/mailing_lists)
 
+### ClarityOS
+An elegant operating system based on FreeBSD.
+
+* [official website](https://clarityos.net/)
+
 ### DragonFly BSD
 DragonFly belongs to the same class of operating systems as other BSD-derived systems and Linux. It is based on the same UNIX ideals and APIs and shares ancestor code with other BSD operating systems. DragonFly provides an opportunity for the BSD base to grow in an entirely different direction from the one taken in the FreeBSD, NetBSD, and OpenBSD series. 
 
