@@ -257,7 +257,7 @@ In this section you can find sites presenting news about BSD.
 * [BSDForen](http://www.bsdforen.de/)
 * [Daemon Forums](http://daemonforums.org/)
 * [Unix.com](http://www.unix.com/bsd/)
-* [UnitedBSD](https://unitedbsd.com/)
+* [UnitedBSD](https://www.unitedbsd.com)
 
 ### Reddit
 
