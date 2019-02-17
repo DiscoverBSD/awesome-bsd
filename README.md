@@ -299,7 +299,7 @@ In this section you can find sites presenting news about BSD.
 * [FreeBSD Mastery: Storage Essentials](https://www.michaelwlucas.com/os/fmse)
 * [FreeBSD Mastery: ZFS](https://www.michaelwlucas.com/os/fmzfs)
 * [FreeBSD Mastery: Advanced ZFS](https://www.michaelwlucas.com/os/fmaz)
-* [Absolute FreeBSD 2nd Ed](https://www.michaelwlucas.com/os/af2e)
+* [Absolute FreeBSD 3rd Ed](https://mwl.io/nonfiction/os#af3e)
 * [Absolute OpenBSD](https://www.michaelwlucas.com/os/ao2e)
 * [The Design and Implementation of the FreeBSD Operating System 2nd Ed](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=W4TYR1MZ2QQR50RECWXQ)
 * [FreeBSD Device Drivers](https://www.nostarch.com/bsddrivers.htm)
