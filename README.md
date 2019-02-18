@@ -214,7 +214,7 @@ In this section you can find sites presenting news about BSD.
 * [NetBSD Planet](http://netbsd.fi/)
 * [OpenBSD Journal](http://undeadly.org/) - A resource for the OpenBSD community
 * [Phoronix](http://www.phoronix.com/scan.php?page=news_topic&q=BSD) 
-* [Planet FreeBSD](http://blogs.freebsdish.org/)
+* [Planet FreeBSD](https://planet.xbsd.net/)
 * [Slashdot](http://bsd.slashdot.org/) - BSD section of the popular Slashdot open source news and forum site.
 
 ### Podcasts 
