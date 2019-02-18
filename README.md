@@ -119,6 +119,13 @@ MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and s
 * [download](https://www.mirbsd.org/getting.htm)
 * [mailing list](https://www.mirbsd.org/rss.htm)
 
+### NomadBSD
+
+NomadBSD is a 64bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box, but can also be used for data recovery.       
+
+ * [official site](http://nomadbsd.org/)
+ * [download](http://nomadbsd.org/download.html)
+ * [mailing list](https://www.freelists.org/list/nomadbsddevs)
 
 ### NetBSD
 NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system. It is available for a wide range of platforms, from large-scale servers and powerful desktop systems to handheld and embedded devices. Its clean design and advanced features make it excellent for use in both production and research environments, and the source code is freely available under a business-friendly license. NetBSD is developed and supported by a large and vivid international community. Many applications are readily available through pkgsrc, the NetBSD Packages Collection. 
@@ -144,7 +151,6 @@ The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like opera
 * [twitter](https://twitter.com/openbsd)
 * [openbsd-awesome](https://github.com/ligurio/openbsd-awesome) - the curated list of awesome OpenBSD products, vacancies, resources.
 * [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/)
-
 
 ### OPNsense
 OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall and routing platform. OPNsense includes most of the features available in expensive commercial firewalls, and more in many cases. OPNsense® is a fork of pfSense® that in its turn has been forked from m0n0wall®.
@@ -182,6 +188,13 @@ pfSense® software is a free, open source customized distribution of FreeBSD spe
 * [download](https://www.pfsense.org/download/)
 * [forums](https://forum.pfsense.org/)
 * [mailing list](https://www.pfsense.org/get-involved/)
+
+### Project Trident
+
+Project Trident is a desktop-focused operating system based on [TrueOS](#trueos). It uses the Lumina desktop as well as a number of self-developed utilities to provide an easy-to-use system that both BSD beginners and advanced system administrators can feel comfortable running.
+
+ * [official site](https://project-trident.org/)
+ * [download](https://project-trident.org/download/)
 
 ### RaspBSD
 RaspBSD is a image of FreeBSD 11 that is preconfigured in two different images for Raspberry Pi Computers (and more soon).
