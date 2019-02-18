@@ -14,15 +14,6 @@ This document is a database of links related to the BSD operating systems and BS
 ## Operating Systems
 In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
 
-### ÆrieBSD
-A free BSD4.4-based operating system which tends to be clear from GPL-licensed software. Main work is concentrated around fresh new [toolchain](https://github.com/mcikye/tools), for which base system also acts as a comprehensive test suite.
-
-* [official site](http://aeriebsd.org)
-* [download](http://www.mail-archive.com/hackers@aeriebsd.org/msg00181.html)
-* [unofficial download](http://rutracker.org/forum/viewtopic.php?t=4511449)
-* [documentation](http://aeriebsd.org/man)
-* [mailing list](http://aeriebsd.org/lists.html)
-
 ### Bitrig
 Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is available on current hardware platforms. The [source code](https://github.com/bitrig/bitrig) is freely available under a permissive license. 
 
@@ -36,11 +27,6 @@ BSD Router Project (BSDRP) is an embedded free and open source router distributi
 * [official site](http://bsdrp.net/)
 * [download](http://bsdrp.net/downloads?DokuWiki=e8a2af21cc91416f910347e472b73841)
 * [mailing list](http://bsdrp.net/community/mailing_lists)
-
-### ClarityOS
-An elegant operating system based on FreeBSD.
-
-* [official website](https://clarityos.net/)
 
 ### DragonFly BSD
 DragonFly belongs to the same class of operating systems as other BSD-derived systems and Linux. It is based on the same UNIX ideals and APIs and shares ancestor code with other BSD operating systems. DragonFly provides an opportunity for the BSD base to grow in an entirely different direction from the one taken in the FreeBSD, NetBSD, and OpenBSD series. 
@@ -89,13 +75,6 @@ Isotop is a customised OpenBSD installation media. Its goal is to provide a read
 
 * [official website](https://3hg.fr/Isos/isotop/index-en.html)
 * [download](https://3hg.fr/Isos/isotop/Install.html)
-
-### Jibbed
-NetBSD for USB Flash Drives. The images contain a default installation of NetBSD 7.0 that works directly from the flash drive without touching your hard drive. With it, you can try out NetBSD, configure and customize the system directly on the the flash drive.
-
-* [official site](http://www.jibbed.org/)
-* [download](http://www.jibbed.org/download.html)
-* [community](http://www.jibbed.org/community.html)
 
 ### LiteBSD
 LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support, and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
@@ -172,15 +151,6 @@ A lightweight and flexible BSD® distribution that tries to Keep It Simple. Curr
 * [download](http://pacbsd.org/download/)
 * [forums](https://bbs.archbsd.org/)
 
-### PC-BSD
-PC-BSD has evolved into [TrueOS](#trueos). PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known widely for its stability and security in server environments, FreeBSD provides an excellent base on which to build a desktop operating system. PC-BSD uses a host of popular open source window managers and uses a custom-tailored application installer that puts popular applications in easy reach of users.
-
-* [official site](http://www.pcbsd.org/)
-* [download](http://www.pcbsd.org/en/download.html)
-* [documentation](http://www.pcbsd.org/en/documentation/)
-* [forums](https://forums.pcbsd.org/)
-* [mailing list](http://lists.pcbsd.org/mailman/listinfo)
-
 ### pfSense
 pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. 
 
@@ -207,12 +177,6 @@ A long time ago, a very smart guy asked a very simple question. "Why do firewall
 * [downloads](http://www.smallwall.org/download.html)
 * [forums](http://smallwall.freeforums.net/)
 
-### Snasci OS
-Snasci OS is a general purpose operating system built upon OpenBSD and the Lumina Desktop Environment. Designed to be very light weight, Snasci OS is quick, responsive and secure. Whether you want a pretty desktop to surf the web, read emails, work with documents or a hardened server platform, Snasci OS provides a nice balance between the two, without compromising on either. Snasci OS comes with a few applications pre-installed. Firefox, Thunderbird and LibreOffice are all available out-of-the-box.
-
-* [official site](https://snasci.com/SnasciOS)
-
-
 ### t1n1wall
 As m0n0wall decided to close it's doors, and no further development is planned, people have created this fork.
 
@@ -221,17 +185,13 @@ As m0n0wall decided to close it's doors, and no further development is planned, 
 * [forums](http://forums.t1n1wall.com/)
 
 ### TrueOS
-Formerly known as [PC-BSD](#pc-bsd). What makes TrueOS® different?  TrueOS® is based on the legendary security and stability of FreeBSD. TrueOS® follows FreeBSD Current, with the latest drivers, security updates, and packages available. Also, our brand new driver package brings in support for newer Intel graphics chipsets and hardware. We pride ourselves on providing industry leading features like Personacrypt, which allows encrypting your user home directory and carrying it to other TrueOS® machines. TrueOS® also supports GELI full disk encryption, keeping your data secure even in the case of physical theft. So go ahead and give us a try. If you hit any snags along the way, we are glad to help.
+Formerly known as PC-BSD. What makes TrueOS® different?  TrueOS® is based on the legendary security and stability of FreeBSD. TrueOS® follows FreeBSD Current, with the latest drivers, security updates, and packages available. Also, our brand new driver package brings in support for newer Intel graphics chipsets and hardware. We pride ourselves on providing industry leading features like Personacrypt, which allows encrypting your user home directory and carrying it to other TrueOS® machines. TrueOS® also supports GELI full disk encryption, keeping your data secure even in the case of physical theft. So go ahead and give us a try. If you hit any snags along the way, we are glad to help.
 
 * [official site](https://www.trueos.org/)
 * [download](https://www.trueos.org/downloads)
 * [documentation](https://www.trueos.org/handbook/trueos.html)
 * [forums](https://discourse.trueos.org/)
 * [mailing list](http://lists.trueos.org/mailman/listinfo)
-
-### ubuntuBSD
-The ease and familiarity of Ubuntu with the rock-solid stability and performance of the FreeBSD kernel.
-* [official site](http://www.ubuntubsd.org/)
 
 ### ZRouter
 ZRouter.org is a FreeBSD based firmware for embedded devices.
