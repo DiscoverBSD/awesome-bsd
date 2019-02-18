@@ -119,6 +119,13 @@ MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and s
 * [download](https://www.mirbsd.org/getting.htm)
 * [mailing list](https://www.mirbsd.org/rss.htm)
 
+### NomadBSD
+
+NomadBSD is a 64bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box, but can also be used for data recovery. 
+
+* [official site](http://nomadbsd.org/)
+* [download](http://nomadbsd.org/download.html)
+* [mailing list](https://www.freelists.org/list/nomadbsddevs]
 
 ### NetBSD
 NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system. It is available for a wide range of platforms, from large-scale servers and powerful desktop systems to handheld and embedded devices. Its clean design and advanced features make it excellent for use in both production and research environments, and the source code is freely available under a business-friendly license. NetBSD is developed and supported by a large and vivid international community. Many applications are readily available through pkgsrc, the NetBSD Packages Collection. 
@@ -166,15 +173,6 @@ A lightweight and flexible BSD® distribution that tries to Keep It Simple. Curr
 * [download](http://pacbsd.org/download/)
 * [forums](https://bbs.archbsd.org/)
 
-### PC-BSD
-PC-BSD has evolved into [TrueOS](#trueos). PC-BSD® is a user friendly desktop Operating System based on FreeBSD. Known widely for its stability and security in server environments, FreeBSD provides an excellent base on which to build a desktop operating system. PC-BSD uses a host of popular open source window managers and uses a custom-tailored application installer that puts popular applications in easy reach of users.
-
-* [official site](http://www.pcbsd.org/)
-* [download](http://www.pcbsd.org/en/download.html)
-* [documentation](http://www.pcbsd.org/en/documentation/)
-* [forums](https://forums.pcbsd.org/)
-* [mailing list](http://lists.pcbsd.org/mailman/listinfo)
-
 ### pfSense
 pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. 
 
@@ -182,6 +180,13 @@ pfSense® software is a free, open source customized distribution of FreeBSD spe
 * [download](https://www.pfsense.org/download/)
 * [forums](https://forum.pfsense.org/)
 * [mailing list](https://www.pfsense.org/get-involved/)
+
+### Project Trident
+
+Project Trident is a desktop-focused operating system based on [TrueOS](#TrueOS]. It uses the Lumina desktop as well as a number of self-developed utilities to provide an easy-to-use system that both BSD beginners and advanced system administrators can feel comfortable running.
+
+* [official site](https://project-trident.org/)
+* [download](https://project-trident.org/download/)
 
 ### RaspBSD
 RaspBSD is a image of FreeBSD 11 that is preconfigured in two different images for Raspberry Pi Computers (and more soon).
