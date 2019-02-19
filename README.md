@@ -144,13 +144,6 @@ OS108 is a fast, open and Secure replacement Operating System for Windows and ma
 
 * [official site](https://os108.org/)
 
-### PacBSD
-A lightweight and flexible BSD® distribution that tries to Keep It Simple. Currently have official packages optimized for the i686 and x86-64 architectures. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
-
-* [official site](http://pacbsd.org/)
-* [download](http://pacbsd.org/download/)
-* [forums](https://bbs.archbsd.org/)
-
 ### pfSense
 pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. 
 
