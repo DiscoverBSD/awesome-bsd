@@ -54,7 +54,7 @@ FreeBSD is an advanced computer operating system used to power modern servers, d
 * [mailing list](https://www.freebsd.org/community/mailinglists.html)
 
 ### GhostBSD
-GhostBSD is a user-friendly BSD operating system built on top of FreeBSD. FreeBSD is known to be a solid, powerful, secure and stable server operating system, providing an excellent base for a desktop operating system.
+GhostBSD is a user-friendly BSD operating system built on top of [TrueOS](#trueos).
 GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
 
 * [official site](http://www.ghostbsd.org)
