@@ -82,7 +82,6 @@ LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, o
 * [official site](https://github.com/sergev/LiteBSD/wiki)
 * [download](http://litebsd.org/wiki/autobuild.php)
 
-
 ### MidnightBSD
 MidnightBSD is a new BSD-derived operating system developed with desktop users in mind. It includes all the software you'd expect for your daily tasks — email, web browsing, word processing, gaming, and much more. With a small community of dedicated developers, MidnightBSD strives to create an easy-to-use operating system everyone can use, freely. Available for x86, AMD64 and as Virtual Machines.
 
@@ -119,7 +118,6 @@ NextBSD is a code name for "science project", a name which is more tongue-in-che
 
 * [official site](https://nextbsd.org)
 * [download](https://github.com/nextbsd)
-
 
 ### OpenBSD
 The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like operating system. Our efforts emphasize portability, standardization, correctness, [proactive security](http://www.openbsd.org/security.html) and [integrated cryptography](http://www.openbsd.org/crypto.html). As an example of the effect OpenBSD has, the popular [OpenSSH](http://www.openssh.com/) software comes from OpenBSD. 
@@ -161,7 +159,14 @@ Project Trident is a desktop-focused operating system based on [TrueOS](#trueos)
 
 ### RaspBSD
 RaspBSD is a image of FreeBSD 11 that is preconfigured in two different images for Raspberry Pi Computers (and more soon).
+
 * [official site](http://raspbsd.org)
+
+### RetroBSD
+RetroBSD is a port of 2.11BSD Unix intended for embedded systems with fixed memory mapping. The current target is Microchip PIC32 microcontroller with 128 kbytes of RAM and 512 kbytes of Flash. PIC32 processor has MIPS M4K architecture, executable data memory and flexible RAM partitioning between user and kernel modes.
+
+* [official site](http://retrobsd.org)
+* [download](http://retrobsd.org/wiki/autobuild.php)
 
 ### SmallWall
 A long time ago, a very smart guy asked a very simple question. "Why do firewalls have to be big, slow, and hard to configure?" And he created m0n0wall.At this, it was amazingly successful. So successful that the FreeBSD based core was used as a basis for several other projects such as pfSense, Askozia, FreeNAS, and nas4free. Recently, a grandchild of m0n0wall was spawned from pfSense, OPNSense. But, m0n0wall has retired now, and some of us still feel the need for a small and lean firewall. SmallWall is that firewall. 
@@ -191,7 +196,6 @@ ZRouter.org is a FreeBSD based firmware for embedded devices.
 
 * [official site](http://zrouter.org/)
 * [files](http://zrouter.org/projects/zrouter/files)
-
 
 ## BSD News
 
@@ -249,10 +253,15 @@ In this section you can find sites presenting news about BSD.
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
 * [MetaBUG](http://www.metabug.org/) - A Global BSD Users Group Federation
 * [NetBSD Groups](https://www.netbsd.org/community/groups.html)
+* [New York City \*BSD User Group](https://nycbug.org/)
 * [New Delhi BSD User Group](http://ndbug.in)
 * [OpenBSD Groups](http://www.openbsd.org/groups.html)
 * [Southeast Michigan BSD User Group](http://www.semibug.org/)
 * [Knoxville BSD User Group](http://knoxbug.org/)
+
+### Community initiatives
+
+* [dmesgd](https://dmesgd.nycbug.org/) - A user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG.
 
 ## Learning
 
