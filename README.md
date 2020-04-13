@@ -150,13 +150,6 @@ pfSense® software is a free, open source customized distribution of FreeBSD spe
 * [forums](https://forum.pfsense.org/)
 * [mailing list](https://www.pfsense.org/get-involved/)
 
-### Project Trident
-
-Project Trident is a desktop-focused operating system based on [TrueOS](#trueos). It uses the Lumina desktop as well as a number of self-developed utilities to provide an easy-to-use system that both BSD beginners and advanced system administrators can feel comfortable running.
-
- * [official site](https://project-trident.org/)
- * [download](https://project-trident.org/download/)
-
 ### RaspBSD
 RaspBSD is a image of FreeBSD 11 that is preconfigured in two different images for Raspberry Pi Computers (and more soon).
 
