@@ -278,3 +278,4 @@ In this section you can find sites presenting news about BSD.
 
 * [Bastille](https://bastillebsd.org/) - Bastille helps you quickly create and manage FreeBSD Jails.
 * [Runhyve](https://runhyve.app/) - The Virtual Machines Manager for Bhyve
+* [CBSD](https://www.bsdstore.ru/en/about.html) - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen.
