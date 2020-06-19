@@ -198,6 +198,7 @@ In this section you can find sites presenting news about BSD.
 
 * [#BSDHistory](https://bsdhistory.discoverbsd.com/) - twitter-sized facts about BSDs
 * [BSDSec.net](https://bsdsec.net/) - deadsimple BSD Security Advisories and Announcements 
+* [BSD Weekly](https://bsdweekly.com/) - a free, once–weekly e-mail round-up of BSD news and articles.
 * [DiscoverBSD.com](https://www.discoverbsd.com/) - Discovering the Way of the BSD
 * [DragonFly BSD Digest](https://www.dragonflydigest.com/) - A running description of activity related to DragonFly BSD.
 * [FreeBSDNews](https://www.freebsdnews.com/) - A blog advocating FreeBSD and offering project news and advice.
@@ -228,12 +229,13 @@ In this section you can find sites presenting news about BSD.
 * [/r/bsdsec](https://www.reddit.com/r/bsdsec)
 * [/r/dragonflybsd](https://www.reddit.com/r/dragonflybsd)
 * [/r/freebsd](https://www.reddit.com/r/freebsd)
+* [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
 * [/r/netbsd](https://www.reddit.com/r/netbsd)
 * [/r/openbsd](https://www.reddit.com/r/openbsd)
 * [/r/opnsesne](https://www.reddit.com/r/opnsense) - private 
 * [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
-* [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
+
 
 ### Meetups
 
@@ -244,18 +246,19 @@ In this section you can find sites presenting news about BSD.
 * [BSD-PL](https://bsd-pl.org/en) - Polish BSD User Group
 * [HELBUG](http://helbug.fi) - Helsinki area BSD User Group
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
+* [Knoxville BSD User Group](http://knoxbug.org/)
 * [MetaBUG](http://www.metabug.org/) - A Global BSD Users Group Federation
 * [NetBSD Groups](https://www.netbsd.org/community/groups.html)
 * [New York City \*BSD User Group](https://nycbug.org/)
 * [New Delhi BSD User Group](http://ndbug.in)
 * [OpenBSD Groups](http://www.openbsd.org/groups.html)
 * [Southeast Michigan BSD User Group](http://www.semibug.org/)
-* [Knoxville BSD User Group](http://knoxbug.org/)
+
 
 ### Community initiatives
 
-* [dmesgd](https://dmesgd.nycbug.org/) - A user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG.
 * [BSD Hardware](https://bsd-hardware.info/) - A project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
+* [dmesgd](https://dmesgd.nycbug.org/) - A user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG
 
 ## Learning
 
@@ -263,19 +266,19 @@ In this section you can find sites presenting news about BSD.
 * [TeachBSD](http://teachbsd.org/) - Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
 
 ## Books
-
+* [Absolute FreeBSD 3rd Ed](https://mwl.io/nonfiction/os#af3e)
+* [Absolute OpenBSD](https://www.michaelwlucas.com/os/ao2e)
+* [Designing BSD Rootkits: An Introduction to Kernel Hacking](https://www.nostarch.com/rootkits.htm)
+* [FreeBSD Device Drivers](https://www.nostarch.com/bsddrivers.htm)
 * [FreeBSD Mastery: Specialty Filesystems](https://www.michaelwlucas.com/os/fmsf)
 * [FreeBSD Mastery: Storage Essentials](https://www.michaelwlucas.com/os/fmse)
 * [FreeBSD Mastery: ZFS](https://www.michaelwlucas.com/os/fmzfs)
 * [FreeBSD Mastery: Advanced ZFS](https://www.michaelwlucas.com/os/fmaz)
-* [Absolute FreeBSD 3rd Ed](https://mwl.io/nonfiction/os#af3e)
-* [Absolute OpenBSD](https://www.michaelwlucas.com/os/ao2e)
 * [The Design and Implementation of the FreeBSD Operating System 2nd Ed](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=W4TYR1MZ2QQR50RECWXQ)
-* [FreeBSD Device Drivers](https://www.nostarch.com/bsddrivers.htm)
-* [Designing BSD Rootkits: An Introduction to Kernel Hacking](https://www.nostarch.com/rootkits.htm)
 
 ## BSD related software
 
-* [Bastille](https://bastillebsd.org/) - Bastille helps you quickly create and manage FreeBSD Jails.
+* [Bastille](https://bastillebsd.org/) - Bastille helps you quickly create and manage FreeBSD Jails
+* [CBSD](https://www.bsdstore.ru/en/about.html) - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen
 * [Runhyve](https://runhyve.app/) - The Virtual Machines Manager for Bhyve
-* [CBSD](https://www.bsdstore.ru/en/about.html) - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen.
+
