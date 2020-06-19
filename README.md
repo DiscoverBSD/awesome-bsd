@@ -255,6 +255,7 @@ In this section you can find sites presenting news about BSD.
 ### Community initiatives
 
 * [dmesgd](https://dmesgd.nycbug.org/) - A user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG.
+* [BSD Hardware](https://bsd-hardware.info/) - A project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
 
 ## Learning
 
