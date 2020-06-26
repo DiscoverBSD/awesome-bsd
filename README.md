@@ -9,7 +9,8 @@ This document is a database of links related to the BSD operating systems and BS
 * [Forums and communities](#forums-and-communities) - reddit, forums, meetups etc
 * [Learning](#learning) - where to learn BSD
 * [Books](#books) - books about BSD
-* [BSD related software](#bsd-related-software) 
+* [BSD related software](#bsd-related-software)
+* [Gaming](#gaming)
 
 ## Operating Systems
 In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
@@ -232,6 +233,7 @@ In this section you can find sites presenting news about BSD.
 * [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
 * [/r/netbsd](https://www.reddit.com/r/netbsd)
 * [/r/openbsd](https://www.reddit.com/r/openbsd)
+* [/r/openbsd_gaming/](https://www.reddit.com/r/openbsd_gaming/)
 * [/r/opnsesne](https://www.reddit.com/r/opnsense) - private 
 * [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
@@ -252,8 +254,8 @@ In this section you can find sites presenting news about BSD.
 * [New York City \*BSD User Group](https://nycbug.org/)
 * [New Delhi BSD User Group](http://ndbug.in)
 * [OpenBSD Groups](http://www.openbsd.org/groups.html)
-* [Southeast Michigan BSD User Group](http://www.semibug.org/)
 * [Orlando BSD user group](https://www.orlandobsd.org/)
+* [Southeast Michigan BSD User Group](http://www.semibug.org/)
 
 
 ### Community initiatives
@@ -282,4 +284,7 @@ In this section you can find sites presenting news about BSD.
 * [Bastille](https://bastillebsd.org/) - Bastille helps you quickly create and manage FreeBSD Jails
 * [CBSD](https://www.bsdstore.ru/en/about.html) - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen
 * [Runhyve](https://runhyve.app/) - The Virtual Machines Manager for Bhyve
+
+## Gaming
+* [The Homura Project](https://github.com/The-Homura-Project/Homura) - Windows Games Launcher for FreeBSD
 
