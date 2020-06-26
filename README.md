@@ -253,6 +253,7 @@ In this section you can find sites presenting news about BSD.
 * [New Delhi BSD User Group](http://ndbug.in)
 * [OpenBSD Groups](http://www.openbsd.org/groups.html)
 * [Southeast Michigan BSD User Group](http://www.semibug.org/)
+* [Orlando BSD user group](https://www.orlandobsd.org/)
 
 
 ### Community initiatives
