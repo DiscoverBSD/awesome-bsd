@@ -245,6 +245,7 @@ In this section you can find sites presenting news about BSD.
 
 ### User Groups
 
+* [AMBUG](https://ambug.org/) - Armenia BSD User Group
 * [BSD-PL](https://bsd-pl.org/en) - Polish BSD User Group
 * [HELBUG](http://helbug.fi) - Helsinki area BSD User Group
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
