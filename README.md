@@ -288,5 +288,5 @@ In this section you can find sites presenting news about BSD.
 
 ## Gaming
 * [linuxulator-steam-utils](https://github.com/shkhln/linuxulator-steam-utils) - A set of workarounds for running the Linux Steam client under the FreeBSD Linux emulation layer
-* [The Homura Project](https://github.com/The-Homura-Project/Homura) - Windows Games Launcher for FreeBSD
+* [The Homura Project](https://codeberg.org/Alexander88207/Homura) - Windows Games Launcher for FreeBSD
 
