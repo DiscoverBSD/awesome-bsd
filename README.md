@@ -285,6 +285,7 @@ In this section you can find sites presenting news about BSD.
 * [Bastille](https://bastillebsd.org/) - Bastille helps you quickly create and manage FreeBSD Jails
 * [CBSD](https://www.bsdstore.ru/en/about.html) - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen
 * [Runhyve](https://runhyve.app/) - The Virtual Machines Manager for Bhyve
+* [BSD-Cloud-Image](https://bsd-cloud-image.org/) - A collection of (unofficial) prebuilt BSD cloud images, for instance for OpenStack
 
 ## Gaming
 * [linuxulator-steam-utils](https://github.com/shkhln/linuxulator-steam-utils) - A set of workarounds for running the Linux Steam client under the FreeBSD Linux emulation layer
