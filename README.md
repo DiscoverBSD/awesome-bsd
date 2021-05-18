@@ -62,7 +62,7 @@ FuryBSD is a brand new, open source FreeBSD desktop. FuryBSD pays homage to desk
 * [twitter](https://twitter.com/freebsd)
 
 ### GhostBSD
-GhostBSD is a user-friendly BSD operating system built on top of [TrueOS](#trueos). GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
+GhostBSD is a user-friendly BSD operating system built on top of [FreeBSD](#freebsd). GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
 
 * [official site](http://www.ghostbsd.org)
 * [download](http://www.ghostbsd.org/download)
