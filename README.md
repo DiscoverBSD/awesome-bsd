@@ -169,15 +169,6 @@ As m0n0wall decided to close it's doors, and no further development is planned, 
 * [downloads](http://sourceforge.net/projects/t1n1wall/files/?source=navbar)
 * [forums](http://forums.t1n1wall.com/)
 
-### TrueOS
-Formerly known as PC-BSD. What makes TrueOS® different?  TrueOS® is based on the legendary security and stability of FreeBSD. TrueOS® follows FreeBSD Current, with the latest drivers, security updates, and packages available. Also, our brand new driver package brings in support for newer Intel graphics chipsets and hardware. We pride ourselves on providing industry leading features like Personacrypt, which allows encrypting your user home directory and carrying it to other TrueOS® machines. TrueOS® also supports GELI full disk encryption, keeping your data secure even in the case of physical theft. So go ahead and give us a try. If you hit any snags along the way, we are glad to help.
-
-* [official site](https://www.trueos.org/)
-* [download](https://www.trueos.org/downloads)
-* [documentation](https://www.trueos.org/handbook/trueos.html)
-* [forums](https://discourse.trueos.org/)
-* [mailing list](http://lists.trueos.org/mailman/listinfo)
-
 ### ZRouter
 ZRouter.org is a FreeBSD based firmware for embedded devices.
 
