@@ -21,7 +21,7 @@ Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is
 
 * [official site](https://www.bitrig.org/)
 * [downloads](https://www.bitrig.org/downloads.html)
-* [twitter](https://twitter.com/bitrig)
+* [Twitter](https://twitter.com/bitrig)
 
 ### BSD Router Project
 BSD Router Project (BSDRP) is an embedded free and open source router distribution based on [FreeBSD](http://www.freebsd.org/) with [Quagga](http://www.quagga.net/) and [Bird](http://bird.network.cz/).
@@ -43,17 +43,17 @@ EdgeBSD is a new member of the family of [BSD](http://en.wikipedia.org/wiki/BSD)
 
 * [official site](https://www.edgebsd.org/)
 * [projects](https://www.edgebsd.org/edgebsd/project)
-* [twitter](https://twitter.com/EdgeBSD)
+* [Twitter](https://twitter.com/EdgeBSD)
 
 ### FreeBSD
-FreeBSD is an advanced computer operating system used to power modern servers, desktops and embedded [platforms](https://www.freebsd.org/platforms/). A large [community](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributors/staff-committers.html) has continually developed it for more than thirty years. Its advanced networking, security and storage features have made FreeBSD the platform of choice for many of the [busiest web](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/nutshell.html#introduction-nutshell-users) sites and most pervasive embedded networking and storage devices.
+Founded in 1993, FreeBSD is an advanced operating system that powers modern [desktops, servers and embedded devices](https://www.freebsd.org/platforms/). Advanced features make FreeBSD the [platform of choice](https://freebsdfoundation.org/freebsd-project/what-is-freebsd/) for many of the most pervasive embedded networking and storage devices, and busiest websites. [FreeBSD developers](https://docs.freebsd.org/en/articles/contributors/#staff-committers) form part of a [diverse and extensive community](https://www.freebsd.org/community/); members are welcoming and approachable. There's focus on widespread use, and on building the best possible system. Experienced users and developers are [always willing to help the less experienced](https://www.freebsd.org/advocacy/whyusefreebsd/).
 
-* [official site](https://freebsd.org)
+* [official site](https://www.freebsd.org)
 * [download](https://www.freebsd.org/where.html)
 * [forum](https://forums.freebsd.org/)
-* [twitter](https://twitter.com/freebsd)
-* [handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/)
-* [mailing list](https://www.freebsd.org/community/mailinglists.html)
+* [Twitter](https://twitter.com/freebsd)
+* [handbook](https://docs.freebsd.org/en/books/handbook/)
+* [mailing list](https://www.freebsd.org/community/mailinglists/)
 
 ### GhostBSD
 GhostBSD is a user-friendly BSD operating system built on top of [FreeBSD](#freebsd). GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
@@ -90,7 +90,7 @@ MidnightBSD is a new BSD-derived operating system developed with desktop users i
 * [official site](http://www.midnightbsd.org/)
 * [download](http://www.midnightbsd.org/download/)
 * [mailing list](http://www.midnightbsd.org/mailman/listinfo/)
-* [twitter](https://twitter.com/midnightbsd)
+* [Twitter](https://twitter.com/midnightbsd)
 
 ### MirOS
 MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and sparc systems. It is based on 4.4BSD-Lite (mostly OpenBSD, some NetBSD®). The MirPorts Framework is a portable ports tree to facilitate the installation of additional software. The project also releases some portable software: mksh, a pdksh-based shell; PaxMirabilis, an archiver for various formats; MirMake, a framework for building software; MirNroff, an AT&T nroff based man page (and text document) formatter; MirCksum, a flexible checksumming and hash generation tool; and some more.
@@ -127,7 +127,7 @@ The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like opera
 * [official site](http://www.openbsd.org)
 * [download](http://www.openbsd.org/ftp.html)
 * [mailing list](http://www.openbsd.org/mail.html)
-* [twitter](https://twitter.com/openbsd)
+* [Twitter](https://twitter.com/openbsd)
 * [openbsd-awesome](https://github.com/ligurio/openbsd-awesome) - the curated list of awesome OpenBSD products, vacancies, resources.
 * [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/)
 
@@ -137,7 +137,7 @@ OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall 
 * [official site](https://opnsense.org)
 * [download](https://opnsense.org/download/)
 * [mailing list](https://opnsense.org/support-overview/mailing-list/)
-* [twitter](https://twitter.com/opnsense)
+* [Twitter](https://twitter.com/opnsense)
 
 ### OS108
 OS108 is a fast, open and Secure replacement Operating System for Windows and macOS. Built on top of NetBSD, OS108 provides a simple desktop-oriented operating system.
@@ -189,7 +189,7 @@ In this section you can find sites presenting news about BSD.
 
 ### News sites
 
-* [#BSDHistory](https://bsdhistory.discoverbsd.com/) - twitter-sized facts about BSDs
+* [#BSDHistory](https://bsdhistory.discoverbsd.com/) - tweet-sized facts about BSDs
 * [BSDSec.net](https://bsdsec.net/) - deadsimple BSD Security Advisories and Announcements 
 * [BSD Weekly](https://bsdweekly.com/) - a free, once–weekly e-mail round-up of BSD news and articles.
 * [DiscoverBSD.com](https://www.discoverbsd.com/) - Discovering the Way of the BSD
@@ -229,7 +229,6 @@ In this section you can find sites presenting news about BSD.
 * [/r/opnsense](https://www.reddit.com/r/opnsense) - private 
 * [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
-
 
 ### Meetups
 
@@ -285,4 +284,3 @@ In this section you can find sites presenting news about BSD.
 
 ## Other
 * [The Unix Tree](https://www.tuhs.org/cgi-bin/utree.pl) - Browse the source code and manuals of various old versions of Unix (including BSDs)
-
