@@ -30,6 +30,13 @@ BSD Router Project (BSDRP) is an embedded free and open source router distributi
 * [download](https://bsdrp.net/downloads?DokuWiki=e8a2af21cc91416f910347e472b73841)
 * [mailing list](https://bsdrp.net/community/mailing_lists)
 
+### CheriBSD
+[CHERI (Capability Hardware Enhanced RISC Instructions)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/) is a joint research project of SRI International and the University of Cambridge to revisit fundamental design choices in hardware and software to dramatically improve system security. CheriBSD is an adaptation of the open-source FreeBSD operating system to support the CHERI-MIPS, CHERI-RISC-V, and Arm Morello ISAs. 
+
+* [official site](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheribsd.html)
+* [download](https://cheri-dist.cl.cam.ac.uk/)
+* [CTSRD-CHERI/cheribsd](https://github.com/CTSRD-CHERI/cheribsd)
+
 ### DragonFly BSD
 DragonFly belongs to the same class of operating systems as other BSD-derived systems and Linux. It is based on the same UNIX ideals and APIs and shares ancestor code with other BSD operating systems. DragonFly provides an opportunity for the BSD base to grow in an entirely different direction from the one taken in the FreeBSD, NetBSD, and OpenBSD series. 
 
