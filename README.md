@@ -4,16 +4,16 @@ This document is a database of links related to the BSD operating systems and BS
 
 [Structure](https://github.com/DiscoverBSD/BSD-Links/issues/1) is as follows:
  
-* [Operating Systems](#operating-systems) - official links
-* [BSD News](#bsd-news) - where to look for news?
-* [Forums and communities](#forums-and-communities) - reddit, forums, meetups etc
-* [Learning](#learning) - where to learn BSD
-* [Books](#books) - books about BSD
-* [BSD related software](#bsd-related-software)
+* [Operating systems](#operating-systems) – official links
+* [BSD news](#bsd-news) – where to look for news
+* [Forums and communities](#forums-and-communities) – Reddit, forums, meetups etc
+* [Learning](#learning) – where to learn BSD
+* [Books](#books) – books about BSD
+* [BSD-related software](#bsd-related-software)
 * [Gaming](#gaming)
 * [Other](#other)
 
-## Operating Systems
+## Operating systems
 In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
 
 ### Bitrig
@@ -46,7 +46,7 @@ EdgeBSD is a new member of the family of [BSD](http://en.wikipedia.org/wiki/BSD)
 * [Twitter](https://twitter.com/EdgeBSD)
 
 ### FreeBSD
-Founded in 1993, FreeBSD is an advanced operating system that powers modern [desktops, servers and embedded devices](https://www.freebsd.org/platforms/). Advanced features make FreeBSD the [platform of choice](https://freebsdfoundation.org/freebsd-project/what-is-freebsd/) for many of the most pervasive embedded networking and storage devices, and busiest websites. [FreeBSD developers](https://docs.freebsd.org/en/articles/contributors/#staff-committers) form part of a [diverse and extensive community](https://www.freebsd.org/community/); members are welcoming and approachable. There's focus on widespread use, and on building the best possible system. Experienced users and developers are [always willing to help the less experienced](https://www.freebsd.org/advocacy/whyusefreebsd/).
+Founded in 1993, FreeBSD is an advanced operating system that powers modern [desktops, servers and embedded devices](https://www.freebsd.org/platforms/). Advanced features make FreeBSD the [system of choice](https://freebsdfoundation.org/freebsd-project/what-is-freebsd/) for many of the most pervasive embedded networking and storage devices, and busiest websites. [FreeBSD developers](https://docs.freebsd.org/en/articles/contributors/#staff-committers) form part of a [diverse and extensive community](https://www.freebsd.org/community/); members are welcoming and approachable. There's focus on widespread use, and on building the best possible system. Experienced users and developers are [always willing to help the less experienced](https://www.freebsd.org/advocacy/whyusefreebsd/).
 
 * [official site](https://www.freebsd.org)
 * [download](https://www.freebsd.org/where.html)
@@ -128,7 +128,7 @@ The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like opera
 * [download](http://www.openbsd.org/ftp.html)
 * [mailing list](http://www.openbsd.org/mail.html)
 * [Twitter](https://twitter.com/openbsd)
-* [openbsd-awesome](https://github.com/ligurio/openbsd-awesome) - the curated list of awesome OpenBSD products, vacancies, resources.
+* [openbsd-awesome](https://github.com/ligurio/openbsd-awesome) – the curated list of awesome OpenBSD products, vacancies and resources
 * [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/)
 
 ### OPNsense
@@ -183,29 +183,29 @@ ZRouter.org is a FreeBSD based firmware for embedded devices.
 * [official site](http://zrouter.org/)
 * [files](http://zrouter.org/projects/zrouter/files)
 
-## BSD News
+## BSD news
 
 In this section you can find sites presenting news about BSD. 
 
 ### News sites
 
-* [#BSDHistory](https://bsdhistory.discoverbsd.com/) - tweet-sized facts about BSDs
-* [BSDSec.net](https://bsdsec.net/) - deadsimple BSD Security Advisories and Announcements 
-* [BSD Weekly](https://bsdweekly.com/) - a free, once–weekly e-mail round-up of BSD news and articles.
-* [DiscoverBSD.com](https://www.discoverbsd.com/) - Discovering the Way of the BSD
-* [DragonFly BSD Digest](https://www.dragonflydigest.com/) - A running description of activity related to DragonFly BSD.
-* [FreeBSDNews](https://www.freebsdnews.com/) - A blog advocating FreeBSD and offering project news and advice.
+* [#BSDHistory](https://bsdhistory.discoverbsd.com/) – tweet-sized facts about BSDs
+* [BSDSec.net](https://bsdsec.net/) – deadsimple BSD Security Advisories and Announcements 
+* [BSD Weekly](https://bsdweekly.com/) – a free, once–weekly e-mail round-up of BSD news and articles.
+* [DiscoverBSD.com](https://www.discoverbsd.com/) – discovering the Way of the BSD
+* [DragonFly BSD Digest](https://www.dragonflydigest.com/) – a running description of activity related to DragonFly BSD.
+* [FreeBSDNews](https://www.freebsdnews.com/) – a blog advocating FreeBSD and offering project news and advice.
 * [NetBSD Planet](http://netbsd.fi/)
-* [OpenBSD Journal](http://undeadly.org/) - A resource for the OpenBSD community
+* [OpenBSD Journal](http://undeadly.org/) – a resource for the OpenBSD community
 * [Phoronix](http://www.phoronix.com/scan.php?page=news_topic&q=BSD) 
 * [Planet FreeBSD](https://planet.xbsd.net/)
-* [Slashdot](http://bsd.slashdot.org/) - BSD section of the popular Slashdot open source news and forum site.
+* [Slashdot](http://bsd.slashdot.org/) – BSD section of the popular Slashdot open source news and forum site.
 
 ### Podcasts 
 
-* [BSDNow](http://www.bsdnow.tv/) -  weekly BSD podcast, featuring news, interviews and tutorials, in MP3, OGG and MP4
-* [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
-* [Garbage (archive)](https://garbage.jcs.org/) - A podcast about technology, much of it garbage. (Archived episodes)
+* [BSDNow](http://www.bsdnow.tv/) – weekly BSD podcast, featuring news, interviews and tutorials, in MP3, OGG and MP4
+* [BSDTalk](http://bsdtalk.blogspot.com/) – talking about the BSD family of free operating systems.
+* [Garbage (archive)](https://garbage.jcs.org/) – a podcast about technology, much of it garbage. (Archived episodes)
 
 ## Forums and Communities
 
@@ -225,9 +225,9 @@ In this section you can find sites presenting news about BSD.
 * [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
 * [/r/netbsd](https://www.reddit.com/r/netbsd)
 * [/r/openbsd](https://www.reddit.com/r/openbsd)
-* [/r/openbsd_gaming/](https://www.reddit.com/r/openbsd_gaming/)
-* [/r/opnsense](https://www.reddit.com/r/opnsense) - private 
-* [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/)
+* [/r/openbsd_gaming/](https://www.reddit.com/r/openbsd_gaming)
+* [/r/opnsense](https://www.reddit.com/r/opnsense) – private 
+* [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
 
 ### Meetups
@@ -236,12 +236,12 @@ In this section you can find sites presenting news about BSD.
 
 ### User Groups
 
-* [AMBUG](https://ambug.org/) - Armenia BSD User Group
-* [BSD-PL](https://bsd-pl.org/en) - Polish BSD User Group
-* [HELBUG](http://helbug.fi) - Helsinki area BSD User Group
+* [AMBUG](https://ambug.org/) – Armenia BSD User Group
+* [BSD-PL](https://bsd-pl.org/en) – Polish BSD User Group
+* [HELBUG](http://helbug.fi) – Helsinki area BSD User Group
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
 * [Knoxville BSD User Group](http://knoxbug.org/)
-* [MetaBUG](http://www.metabug.org/) - A Global BSD Users Group Federation
+* [MetaBUG](http://www.metabug.org/) – a global BSD users group federation
 * [NetBSD Groups](https://www.netbsd.org/community/groups.html)
 * [New York City \*BSD User Group](https://nycbug.org/)
 * [New Delhi BSD User Group](http://ndbug.in)
@@ -252,13 +252,13 @@ In this section you can find sites presenting news about BSD.
 
 ### Community initiatives
 
-* [BSD Hardware](https://bsd-hardware.info/) - A project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
-* [dmesgd](https://dmesgd.nycbug.org/) - A user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG
+* [BSD Hardware](https://bsd-hardware.info/) – a project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
+* [dmesgd](https://dmesgd.nycbug.org/) – a user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG
 
 ## Learning
 
-* [The BSD Certification Group](http://www.bsdcertification.org/) - The BSD Certification Group Inc. is a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD based operating systems.
-* [TeachBSD](http://teachbsd.org/) - Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
+* [The BSD Certification Group](http://www.bsdcertification.org/) – a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD based operating systems.
+* [TeachBSD](http://teachbsd.org/) – Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
 
 ## Books
 * [Absolute FreeBSD 3rd Ed](https://mwl.io/nonfiction/os#af3e)
@@ -273,14 +273,14 @@ In this section you can find sites presenting news about BSD.
 
 ## BSD related software
 
-* [Bastille](https://bastillebsd.org/) - Bastille helps you quickly create and manage FreeBSD Jails
-* [CBSD](https://www.bsdstore.ru/en/about.html) - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen
-* [Runhyve](https://runhyve.app/) - The Virtual Machines Manager for Bhyve
-* [BSD-Cloud-Image](https://bsd-cloud-image.org/) - A collection of (unofficial) prebuilt BSD cloud images, for instance for OpenStack
+* [Bastille](https://bastillebsd.org/) – Bastille helps you quickly create and manage FreeBSD Jails
+* [CBSD](https://www.bsdstore.ru/en/about.html) – CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen
+* [Runhyve](https://runhyve.app/) – the virtual machines manager for Bhyve
+* [BSD-Cloud-Image](https://bsd-cloud-image.org/) – a collection of (unofficial) prebuilt BSD cloud images, for instance for OpenStack
 
 ## Gaming
-* [linuxulator-steam-utils](https://github.com/shkhln/linuxulator-steam-utils) - A set of workarounds for running the Linux Steam client under the FreeBSD Linux emulation layer
-* [The Homura Project](https://codeberg.org/Alexander88207/Homura) - Windows Games Launcher for FreeBSD
+* [linuxulator-steam-utils](https://github.com/shkhln/linuxulator-steam-utils) – a set of workarounds for running the Linux Steam client under the FreeBSD Linux emulation layer
+* [The Homura Project](https://codeberg.org/Alexander88207/Homura) – Windows games launcher for FreeBSD
 
 ## Other
-* [The Unix Tree](https://www.tuhs.org/cgi-bin/utree.pl) - Browse the source code and manuals of various old versions of Unix (including BSDs)
+* [The Unix Tree](https://www.tuhs.org/cgi-bin/utree.pl) – browse the source code and manuals of various old versions of Unix (including BSDs)
