@@ -232,7 +232,7 @@ In this section you can find sites presenting news about BSD.
 
 ### Forums
 
-* [BSD – UNIX and Linux Forums](https://community.unix.com/c/unix/bsd/34)
+* [UNIX/BSD – Unix Linux Community](https://community.unix.com/c/unix/bsd/34)
 * [BSDForen](https://www.bsdforen.de/)
 * [Daemon Forums](http://daemonforums.org/)
 * [UnitedBSD](https://www.unitedbsd.com/)
