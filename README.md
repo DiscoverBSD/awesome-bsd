@@ -225,12 +225,17 @@ In this section you can find sites presenting news about BSD.
 
 ## Forums and communities
 
+### Community initiatives
+
+* [BSD Hardware](https://bsd-hardware.info/) – a project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
+* [dmesgd](https://dmesgd.nycbug.org/) – a user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG
+
 ### Forums
 
-* [BSD – UNIX and Linux Forums](https://www.unix.com/bsd/)
 * [BSDForen](https://www.bsdforen.de/)
 * [Daemon Forums](http://daemonforums.org/)
 * [UnitedBSD](https://www.unitedbsd.com/)
+* [UNIX/BSD – Unix Linux Community](https://community.unix.com/c/unix/bsd/34)
 
 ### Meetup
 
@@ -256,11 +261,6 @@ In this section you can find sites presenting news about BSD.
 * [OpenBSD user groups](https://www.openbsd.org/groups.html)
 * [Orlando BSD user group](https://www.orlandobsd.org/)
 * [Southeast Michigan BSD User Group](http://www.semibug.org/)
-
-### Community initiatives
-
-* [BSD Hardware](https://bsd-hardware.info/) – a project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
-* [dmesgd](https://dmesgd.nycbug.org/) – a user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG
 
 ## Learning
 
