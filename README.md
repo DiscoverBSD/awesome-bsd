@@ -114,7 +114,7 @@ MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and s
 
 ### NomadBSD
 
-NomadBSD is a 64bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box, but can also be used for data recovery.       
+NomadBSD is a 64bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box, but can also be used for data recovery.
 
  * [official site](https://nomadbsd.org/)
  * [download](https://nomadbsd.org/download.html)
@@ -268,6 +268,7 @@ In this section you can find sites presenting news about BSD.
 * [TeachBSD](http://teachbsd.org/) – Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
 
 ## Books
+
 * [Absolute FreeBSD 3rd Ed](https://mwl.io/nonfiction/os#af3e)
 * [Absolute OpenBSD](https://www.michaelwlucas.com/os/ao2e)
 * [Designing BSD Rootkits: An Introduction to Kernel Hacking](https://www.nostarch.com/rootkits.htm)
@@ -286,8 +287,19 @@ In this section you can find sites presenting news about BSD.
 * [BSD-Cloud-Image](https://bsd-cloud-image.org/) – a collection of (unofficial) prebuilt BSD cloud images, for instance for OpenStack
 
 ## Gaming
+
 * [linuxulator-steam-utils](https://github.com/shkhln/linuxulator-steam-utils) – a set of workarounds for running the Linux Steam client under the FreeBSD Linux emulation layer
 * [Suyimazu](https://codeberg.org/Alexander88207/Suyimazu) – Wine-based game launcher for FreeBSD
 
 ## Other
+
+* [A Repository of Unix History and Evolution](https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html) - The history and evolution of the Unix operating system from 1972 to 2016 by [Diomidis Spinellis](https://github.com/dspinellis) [PDF](http://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.pdf)
+* [Archive OS BSD](https://archiveos.org/bsd/) - Archive of BSD systems
+* [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - The list is an exploration of the world of UNIX
+* [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) - Graph of BSD systems
+* [BSD Family Tree](https://github.com/freebsd/freebsd-src/blob/master/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
+* [Distrowatch](https://distrowatch.com/search.php?ostype=BSD&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=All&status=All#advanced) - Search on distrowatch.com for all BSD systems
 * [The Unix Tree](https://www.tuhs.org/cgi-bin/utree.pl) – browse the source code and manuals of various old versions of Unix (including BSDs)
+* [Unix History](https://www.levenez.com/unix/) - Simplified diagram of unix history by Éric Lévénez
+* [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems) - Comparison of BSD operating systems
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems) - List of BSD operating systems
