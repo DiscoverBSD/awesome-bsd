@@ -112,6 +112,13 @@ MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and s
 * [download](https://www.mirbsd.org/getting.htm)
 * [mailing list](https://www.mirbsd.org/rss.htm)
 
+### MyBee
+MyBee is a FreeBSD based distribution for managing containers (jail) and cloud VMs (bhyve) through a simplified API.
+
+* [official site](https://myb.convectix.com)
+* [download](https://myb.convectix.com/download/)
+* [guide](https://github.com/myb-project/guide)
+
 ### NomadBSD
 
 NomadBSD is a 64bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box, but can also be used for data recovery.
