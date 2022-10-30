@@ -304,7 +304,7 @@ In this section you can find sites presenting news about BSD.
 * [Archive OS BSD](https://archiveos.org/bsd/) - Archive of BSD systems
 * [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - The list is an exploration of the world of UNIX
 * [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) - Graph of BSD systems
-* [BSD Family Tree](https://github.com/freebsd/freebsd-src/blob/master/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
+* [BSD Family Tree](https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
 * [Distrowatch](https://distrowatch.com/search.php?ostype=BSD&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=All&status=All#advanced) - Search on distrowatch.com for all BSD systems
 * [The Unix Tree](https://www.tuhs.org/cgi-bin/utree.pl) – browse the source code and manuals of various old versions of Unix (including BSDs)
 * [Unix History](https://www.levenez.com/unix/) - Simplified diagram of unix history by Éric Lévénez
