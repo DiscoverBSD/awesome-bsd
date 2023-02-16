@@ -16,13 +16,6 @@ This document is a database of links related to the BSD operating systems and BS
 ## Operating systems
 In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
 
-### Bitrig
-Bitrig is a free, fast, and secure Unix-like Open Source operating system. It is available on current hardware platforms. The [source code](https://github.com/bitrig/bitrig) is freely available under a permissive license. 
-
-* [official site](https://www.bitrig.org/)
-* [downloads](https://www.bitrig.org/downloads.html)
-* [Twitter](https://twitter.com/bitrig)
-
 ### BSD Router Project
 BSD Router Project (BSDRP) is an embedded free and open source router distribution based on [FreeBSD](https://www.freebsd.org/) with [Quagga](https://www.quagga.net/) and [BIRD](https://bird.network.cz/).
 
@@ -46,13 +39,6 @@ DragonFly belongs to the same class of operating systems as other BSD-derived sy
 * [handbook](http://www.dragonflybsd.org/docs/newhandbook/)
 * [/r/dragonflybsd](https://www.reddit.com/r/dragonflybsd)
 * [DragonFly BSD Digest](https://www.dragonflydigest.com/) – a running description of activity related to DragonFly BSD.
-
-### EdgeBSD
-EdgeBSD is a new member of the family of [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)-based Operating Systems, starting development with the current [NetBSD](https://www.netbsd.org/) codebase with [Git](https://git-scm.com/) for Source Code Management. Package management is based on [pkgsrc](https://pkgsrc.org/).
-
-* [official site](https://www.edgebsd.org/)
-* [projects](https://www.edgebsd.org/edgebsd/project)
-* [Twitter](https://twitter.com/EdgeBSD)
 
 ### FreeBSD
 Founded in 1993, FreeBSD is an advanced operating system that powers modern [desktops, servers and embedded devices](https://www.freebsd.org/platforms/). Advanced features make FreeBSD the [system of choice](https://freebsdfoundation.org/freebsd-project/what-is-freebsd/) for many of the most pervasive embedded networking and storage devices, and busiest websites. [FreeBSD developers](https://docs.freebsd.org/en/articles/contributors/#staff-committers) form part of a [diverse and extensive community](https://www.freebsd.org/community/); members are welcoming and approachable. There's focus on widespread use, and on building the best possible system. Experienced users and developers are [always willing to help the less experienced](https://www.freebsd.org/advocacy/whyusefreebsd/).
@@ -137,12 +123,6 @@ NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operat
 * [/r/netbsd](https://www.reddit.com/r/netbsd)
 * [NetBSD Planet](https://netbsd.fi/)
 
-### NextBSD
-NextBSD is a code name for "science project", a name which is more tongue-in-cheek than serious (naming projects is hard). It started as an effort to adapt some of the more interesting Open Source technologies from Darwin/OS X to FreeBSD.
-
-* [official site](https://nextbsd.org)
-* [download](https://github.com/nextbsd)
-
 ### OpenBSD
 The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like operating system. Our efforts emphasize portability, standardization, correctness, [proactive security](https://www.openbsd.org/security.html) and [integrated cryptography](https://www.openbsd.org/crypto.html). As an example of the effect OpenBSD has, the popular [OpenSSH](https://www.openssh.com/) software comes from OpenBSD. 
 
@@ -178,11 +158,6 @@ pfSense® software is a free, open source customized distribution of FreeBSD spe
 * [download](https://www.pfsense.org/download/)
 * [forums](https://forum.pfsense.org/)
 * [mailing list](https://www.pfsense.org/get-involved/)
-
-### RaspBSD
-RaspBSD is a image of FreeBSD 11 that is preconfigured in two different images for Raspberry Pi Computers (and more soon).
-
-* [official site](http://raspbsd.org/)
 
 ### RetroBSD
 RetroBSD is a port of 2.11BSD Unix intended for embedded systems with fixed memory mapping. The current target is Microchip PIC32 microcontroller with 128 kbytes of RAM and 512 kbytes of Flash. PIC32 processor has MIPS M4K architecture, executable data memory and flexible RAM partitioning between user and kernel modes.
@@ -221,7 +196,6 @@ In this section you can find sites presenting news about BSD.
 * [BSD Weekly](https://bsdweekly.com/) – a free, once–weekly e-mail round-up of BSD news and articles.
 * [DiscoverBSD.com](https://www.discoverbsd.com/) – discovering the Way of the BSD
 * [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=BSD) 
-* [Planet FreeBSD](https://planet.xbsd.net/)
 * [Slashdot](https://bsd.slashdot.org/) – BSD section of the popular Slashdot open source news and forum site.
 
 ### Podcasts 
@@ -256,11 +230,9 @@ In this section you can find sites presenting news about BSD.
 
 ### User groups
 
-* [AMBUG](https://ambug.org/) – Armenia BSD User Group
 * [BSD-PL](https://bsd-pl.org/en) – Polish BSD User Group
 * [HELBUG](http://helbug.fi/) – Helsinki area BSD User Group
 * [FreeBSD Groups](https://www.freebsd.org/usergroups.html)
-* [Knoxville BSD User Group](http://knoxbug.org/)
 * [MetaBUG](https://www.metabug.org/) – a global BSD users group federation
 * [NetBSD Groups](https://www.netbsd.org/community/groups.html)
 * [New York City \*BSD User Group](https://nycbug.org/)
