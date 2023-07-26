@@ -228,6 +228,13 @@ In this section you can find sites presenting news about BSD.
 * [/r/bsdsec](https://www.reddit.com/r/bsdsec)
 * [/r/unixporn](https://www.reddit.com/r/unixporn)
 
+### Fediverse
+
+* [BSD Cafe](https://bsd.cafe)
+* [BSD Network](https://bsd.network)
+* [c/bsd](https://lemmy.ml/c/bsd)
+* [c/freebsd](https://lemmy.ml/c/freebsd)
+
 ### User groups
 
 * [BSD-PL](https://bsd-pl.org/en) – Polish BSD User Group
