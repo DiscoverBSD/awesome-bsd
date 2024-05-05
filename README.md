@@ -275,7 +275,7 @@ In this section you can find sites presenting news about BSD.
 ## Gaming
 
 * [linuxulator-steam-utils](https://github.com/shkhln/linuxulator-steam-utils) – a set of workarounds for running the Linux Steam client under the FreeBSD Linux emulation layer
-* [Suyimazu](https://codeberg.org/Alexander88207/Suyimazu) – Wine-based game launcher for FreeBSD
+* [Mizutamari](https://codeberg.org/Alexander88207/Mizutamari) – Wine front-end for FreeBSD
 
 ## Other
 
