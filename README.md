@@ -24,7 +24,7 @@ BSD Router Project (BSDRP) is an embedded free and open-source router distributi
 * [mailing list](https://bsdrp.net/community/mailing_lists)
 
 ### CheriBSD
-[CHERI (Capability Hardware Enhanced RISC Instructions)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/) is a joint research project of SRI International and the University of Cambridge to revisit fundamental design choices in hardware and software to dramatically improve system security. CheriBSD is an adaptation of the open-source FreeBSD operating system to support the CHERI-MIPS, CHERI-RISC-V, and Arm Morello ISAs. 
+[CHERI (Capability Hardware Enhanced RISC Instructions)](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/) is a joint research project of SRI International and the University of Cambridge to revisit fundamental design choices in hardware and software to improve system security dramatically. CheriBSD is an adaptation of the open-source FreeBSD operating system to support the CHERI-MIPS, CHERI-RISC-V, and Arm Morello ISAs. 
 
 * [official site](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheribsd.html)
 * [download](https://cheri-dist.cl.cam.ac.uk/)
@@ -71,14 +71,14 @@ HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is i
 * [/r/hardenedbsd](https://www.reddit.com/r/hardenedbsd)
 
 ### helloSystem
-helloSystem is a desktop system for creators with a focus on simplicity, elegance, and usability. Its design follows the “Less, but better” philosophy. It is intended as a system for “mere mortals”, welcoming to switchers from the Mac. [FreeBSD](#freebsd) is used as the core operating system. 
+helloSystem is a desktop system for creators focusing on simplicity, elegance, and usability. Its design follows the “Less, but better” philosophy. It is intended as a system for “mere mortals”, welcoming to switchers from the Mac. [FreeBSD](#freebsd) is the core operating system. 
 
 * [official site](https://hellosystem.github.io/)
 * [download](https://github.com/helloSystem/ISO/releases)
 * [handbook](https://hellosystem.github.io/docs/)
 
 ### LiteBSD
-LiteBSD is a variant of the 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
+LiteBSD is a variant of the 4.4BSD operating system for microcontrollers. Currently, only the Microchip PIC32MZ family is supported. PIC32MZ is an MIPS32 processor with MMU with paging support and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
 
 * [official site](https://github.com/sergev/LiteBSD/wiki)
 * [download](http://litebsd.org/wiki/autobuild.php)
@@ -211,9 +211,9 @@ In this section, you can find sites presenting news about BSD.
 * [UnitedBSD](https://www.unitedbsd.com/)
 * [UNIX/BSD – Unix Linux Community](https://community.unix.com/c/unix/bsd/34)
 
-### Meetup
+### Meetups
 
-* [BSD Meetup](https://bsd.meetup.com/) – sign up required
+* [All BSD related meetups](https://www.meetup.com/topics/bsd/all)
 
 ### Reddit
 
@@ -244,7 +244,7 @@ In this section, you can find sites presenting news about BSD.
 ## Learning
 
 * [The BSD Certification Group](http://www.bsdcertification.org/) – a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD-based operating systems.
-* [TeachBSD](http://teachbsd.org/) – Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
+* [TeachBSD](http://teachbsd.org/) – Teaching Operating Systems with Tracing: a set of courses for students and software practitioners. 
 
 ## Books
 
