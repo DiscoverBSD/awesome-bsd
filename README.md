@@ -14,10 +14,10 @@ This document is a database of links related to the BSD operating systems and BS
 * [Other](#other)
 
 ## Operating systems
-In this section you can find official BSD OSes links (in alphabethical order ) with short description as can be found on their pages. 
+In this section, you can find official BSD OSes links (in alphabetical order) with short descriptions as can be found on their pages. 
 
 ### BSD Router Project
-BSD Router Project (BSDRP) is an embedded free and open source router distribution based on [FreeBSD](https://www.freebsd.org/) with [Quagga](https://www.quagga.net/) and [BIRD](https://bird.network.cz/).
+BSD Router Project (BSDRP) is an embedded free and open-source router distribution based on [FreeBSD](https://www.freebsd.org/) with [Quagga](https://www.quagga.net/) and [BIRD](https://bird.network.cz/).
 
 * [official site](https://bsdrp.net/)
 * [download](https://bsdrp.net/downloads?DokuWiki=e8a2af21cc91416f910347e472b73841)
@@ -41,7 +41,7 @@ DragonFly belongs to the same class of operating systems as other BSD-derived sy
 * [DragonFly BSD Digest](https://www.dragonflydigest.com/) – a running description of activity related to DragonFly BSD.
 
 ### FreeBSD
-Founded in 1993, FreeBSD is an advanced operating system that powers modern [desktops, servers and embedded devices](https://www.freebsd.org/platforms/). Advanced features make FreeBSD the [system of choice](https://freebsdfoundation.org/freebsd-project/what-is-freebsd/) for many of the most pervasive embedded networking and storage devices, and busiest websites. [FreeBSD developers](https://docs.freebsd.org/en/articles/contributors/#staff-committers) form part of a [diverse and extensive community](https://www.freebsd.org/community/); members are welcoming and approachable. There's focus on widespread use, and on building the best possible system. Experienced users and developers are [always willing to help the less experienced](https://www.freebsd.org/advocacy/whyusefreebsd/).
+Founded in 1993, FreeBSD is an advanced operating system that powers modern [desktops, servers, and embedded devices](https://www.freebsd.org/platforms/). Advanced features make FreeBSD the [system of choice](https://freebsdfoundation.org/freebsd-project/what-is-freebsd/) for many of the most pervasive embedded networking and storage devices and busiest websites. [FreeBSD developers](https://docs.freebsd.org/en/articles/contributors/#staff-committers) form part of a [diverse and extensive community](https://www.freebsd.org/community/); members are welcoming and approachable. There's a focus on widespread use, and on building the best possible system. Experienced users and developers are [always willing to help the less experienced](https://www.freebsd.org/advocacy/whyusefreebsd/).
 
 * [official site](https://www.freebsd.org)
 * [download](https://www.freebsd.org/where.html)
@@ -78,28 +78,21 @@ helloSystem is a desktop system for creators with a focus on simplicity, eleganc
 * [handbook](https://hellosystem.github.io/docs/)
 
 ### LiteBSD
-LiteBSD is variant of 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support, and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
+LiteBSD is a variant of the 4.4BSD operating system for microcontrollers. Currently, only Microchip PIC32MZ family is supported. PIC32MZ is a MIPS32 processor with MMU with paging support and 512kbytes of on-chip RAM. These resources are enough to run 4.4BSD.
 
 * [official site](https://github.com/sergev/LiteBSD/wiki)
 * [download](http://litebsd.org/wiki/autobuild.php)
 
 ### MidnightBSD
-MidnightBSD is a new BSD-derived operating system developed with desktop users in mind. It includes all the software you'd expect for your daily tasks — email, web browsing, word processing, gaming, and much more. With a small community of dedicated developers, MidnightBSD strives to create an easy-to-use operating system everyone can use, freely. Available for x86, AMD64 and as Virtual Machines.
+MidnightBSD is a new BSD-derived operating system developed with desktop users in mind. It includes all the software you'd expect for your daily tasks — email, web browsing, word processing, gaming, and much more. With a small community of dedicated developers, MidnightBSD strives to create an easy-to-use operating system that everyone can use, freely. Available for x86, AMD64, and as Virtual Machines.
 
 * [official site](https://www.midnightbsd.org/)
 * [download](https://www.midnightbsd.org/download/)
 * [mailing list](https://www.midnightbsd.org/mailman/listinfo/)
 * [Twitter](https://twitter.com/midnightbsd)
 
-### MirOS
-MirOS BSD is a secure operating system from the BSD family for 32-bit i386 and sparc systems. It is based on 4.4BSD-Lite (mostly OpenBSD, some NetBSD®). The MirPorts Framework is a portable ports tree to facilitate the installation of additional software. The project also releases some portable software: mksh, a pdksh-based shell; PaxMirabilis, an archiver for various formats; MirMake, a framework for building software; MirNroff, an AT&T nroff based man page (and text document) formatter; MirCksum, a flexible checksumming and hash generation tool; and some more.
-
-* [official site](https://www.mirbsd.org)
-* [download](https://www.mirbsd.org/getting.htm)
-* [mailing list](https://www.mirbsd.org/rss.htm)
-
 ### MyBee
-MyBee is a FreeBSD based distribution for managing containers (jail) and cloud VMs (bhyve) through a simplified API.
+MyBee is a FreeBSD-based distribution for managing containers (jail) and cloud VMs (bhyve) through a simplified API.
 
 * [official site](https://myb.convectix.com)
 * [download](https://myb.convectix.com/download/)
@@ -107,7 +100,7 @@ MyBee is a FreeBSD based distribution for managing containers (jail) and cloud V
 
 ### NomadBSD
 
-NomadBSD is a 64bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box, but can also be used for data recovery.
+NomadBSD is a 64-bit live system for USB flash drives, based on FreeBSD. Together with automatic hardware detection and setup, it is configured to be used as a desktop system that works out of the box but can also be used for data recovery.
 
  * [official site](https://nomadbsd.org/)
  * [download](https://nomadbsd.org/download.html)
@@ -147,12 +140,12 @@ OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall 
 * [Twitter](https://twitter.com/opnsense)
 
 ### OS108
-OS108 is a fast, open and Secure replacement Operating System for Windows and macOS. Built on top of NetBSD, OS108 provides a simple desktop-oriented operating system.
+OS108 is a fast, open, and Secure replacement Operating System for Windows and macOS. Built on top of NetBSD, OS108 provides a simple desktop-oriented operating system.
 
 * [official site](https://os108.org/)
 
 ### pfSense
-pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. 
+pfSense® software is a free, open-source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via a web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. 
 
 * [official site](https://www.pfsense.org/)
 * [download](https://www.pfsense.org/download/)
@@ -160,47 +153,47 @@ pfSense® software is a free, open source customized distribution of FreeBSD spe
 * [mailing list](https://www.pfsense.org/get-involved/)
 
 ### RetroBSD
-RetroBSD is a port of 2.11BSD Unix intended for embedded systems with fixed memory mapping. The current target is Microchip PIC32 microcontroller with 128 kbytes of RAM and 512 kbytes of Flash. PIC32 processor has MIPS M4K architecture, executable data memory and flexible RAM partitioning between user and kernel modes.
+RetroBSD is a port of 2.11BSD Unix intended for embedded systems with fixed memory mapping. The current target is Microchip PIC32 microcontroller with 128 kbytes of RAM and 512 kbytes of Flash. PIC32 processor has MIPS M4K architecture, executable data memory, and flexible RAM partitioning between user and kernel modes.
 
 * [official site](http://retrobsd.org/)
 * [download](http://retrobsd.org/wiki/autobuild.php)
 
 ### SmallWall
-A long time ago, a very smart guy asked a very simple question. "Why do firewalls have to be big, slow, and hard to configure?" And he created m0n0wall.At this, it was amazingly successful. So successful that the FreeBSD based core was used as a basis for several other projects such as pfSense, Askozia, FreeNAS, and nas4free. Recently, a grandchild of m0n0wall was spawned from pfSense, OPNSense. But, m0n0wall has retired now, and some of us still feel the need for a small and lean firewall. SmallWall is that firewall. 
+A long time ago, a very smart guy asked a very simple question. "Why do firewalls have to be big, slow, and hard to configure?" And he created m0n0wall. At this, it was amazingly successful. So successful that the FreeBSD-based core was used as a basis for several other projects such as pfSense, Askozia, FreeNAS, and nas4free. Recently, a grandchild of m0n0wall was spawned from pfSense, OPNSense. But, m0n0wall has retired now, and some of us still feel the need for a small and lean firewall. SmallWall is that firewall. 
 
 * [official site](http://www.smallwall.org/)
 * [downloads](http://www.smallwall.org/download.html)
 * [forums](https://smallwall.freeforums.net/)
 
 ### t1n1wall
-As m0n0wall decided to close it's doors, and no further development is planned, people have created this fork.
+As m0n0wall decided to close its doors, and no further development is planned, people have created this fork.
 
 * [official site](https://t1n1wall.com/)
 * [downloads](https://sourceforge.net/projects/t1n1wall/files/)
 * [forums](https://forums.t1n1wall.com/)
 
 ### ZRouter
-ZRouter.org is a FreeBSD based firmware for embedded devices.
+ZRouter.org is a FreeBSD-based firmware for embedded devices.
 
 * [official site](https://zrouter.org/)
 * [files](https://zrouter.org/projects/zrouter/files)
 
 ## BSD news
 
-In this section you can find sites presenting news about BSD. 
+In this section, you can find sites presenting news about BSD. 
 
 ### News sites
 
 * [#BSDHistory](https://bsdhistory.discoverbsd.com/) – tweet-sized facts about BSDs
-* [BSDSec.net](https://bsdsec.net/) – deadsimple BSD Security Advisories and Announcements 
+* [BSDSec.net](https://bsdsec.net/) – dead simple BSD Security Advisories and Announcements 
 * [BSD Weekly](https://bsdweekly.com/) – a free, once–weekly e-mail round-up of BSD news and articles.
 * [DiscoverBSD.com](https://www.discoverbsd.com/) – discovering the Way of the BSD
 * [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=BSD) 
-* [Slashdot](https://bsd.slashdot.org/) – BSD section of the popular Slashdot open source news and forum site.
+* [Slashdot](https://bsd.slashdot.org/) – BSD section of the popular Slashdot open-source news and forum site.
 
 ### Podcasts 
 
-* [BSDNow](https://www.bsdnow.tv/) – weekly BSD podcast, featuring news, interviews and tutorials, in MP3, OGG and MP4
+* [BSDNow](https://www.bsdnow.tv/) – weekly BSD podcast, featuring news, interviews, and tutorials, in MP3, OGG, and MP4
 * [BSDTalk](https://bsdtalk.blogspot.com/) – talking about the BSD family of free operating systems
 * [Garbage (archive)](https://garbage.jcs.org/) – a podcast about technology, much of it garbage (archived episodes).
 
@@ -208,7 +201,7 @@ In this section you can find sites presenting news about BSD.
 
 ### Community initiatives
 
-* [BSD Hardware](https://bsd-hardware.info/) – a project to collect hardware details of BSD-powered computers and help users and developers to debug hardware related issues, check for compatibility and find drivers
+* [BSD Hardware](https://bsd-hardware.info/) – a project to collect hardware details of BSD-powered computers and help users and developers debug hardware-related issues, check for compatibility and find drivers
 * [dmesgd](https://dmesgd.nycbug.org/) – a user-submitted repository of searchable \*BSD dmesgs, maintained by NYC\*BUG
 
 ### Forums
@@ -250,7 +243,7 @@ In this section you can find sites presenting news about BSD.
 
 ## Learning
 
-* [The BSD Certification Group](http://www.bsdcertification.org/) – a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD based operating systems.
+* [The BSD Certification Group](http://www.bsdcertification.org/) – a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD-based operating systems.
 * [TeachBSD](http://teachbsd.org/) – Teaching Operating Systems with Tracing : a set of courses for students and software practitioners. 
 
 ## Books
@@ -286,6 +279,6 @@ In this section you can find sites presenting news about BSD.
 * [BSD Family Tree](https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree) - BSD family tree from freebsd-src
 * [Distrowatch](https://distrowatch.com/search.php?ostype=BSD&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=All&status=All#advanced) - Search on distrowatch.com for all BSD systems
 * [The Unix Tree](https://www.tuhs.org/cgi-bin/utree.pl) – browse the source code and manuals of various old versions of Unix (including BSDs)
-* [Unix History](https://www.levenez.com/unix/) - Simplified diagram of unix history by Éric Lévénez
+* [Unix History](https://www.levenez.com/unix/) - Simplified diagram of Unix history by Éric Lévénez
 * [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems) - Comparison of BSD operating systems
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems) - List of BSD operating systems
