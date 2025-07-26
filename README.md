@@ -50,8 +50,7 @@ Founded in 1993, FreeBSD is an advanced operating system that powers modern [des
 * [mailing list](https://www.freebsd.org/community/mailinglists/)
 * [FreshPorts](https://www.freshports.org/)
 * [/r/freebsd](https://www.reddit.com/r/freebsd) 
-* [Twitter](https://twitter.com/freebsd)
-* [FreeBSDNews](https://www.freebsdnews.com/) – a blog advocating FreeBSD and offering project news and advice.
+* [X](https://x.com/freebsd)
 
 ### GhostBSD
 GhostBSD is a user-friendly BSD operating system built on top of [FreeBSD](#freebsd). GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
