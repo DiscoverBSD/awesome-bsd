@@ -263,6 +263,7 @@ In this section, you can find sites presenting news about BSD.
 * [CBSD](https://www.bsdstore.ru/en/about.html) – CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen
 * [Runhyve](https://runhyve.app/) – the virtual machines manager for Bhyve
 * [BSD-Cloud-Image](https://bsd-cloud-image.org/) – a collection of (unofficial) prebuilt BSD cloud images, for instance for OpenStack
+* [Sylve](https://github.com/AlchemillaHQ/Sylve) -  Lightweight GUI for managing Bhyve, Jails, ZFS, networking, and more on FreeBSD 
 
 ## Gaming
 
