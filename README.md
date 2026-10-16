@@ -17,7 +17,7 @@ This document is a database of links related to the BSD operating systems and BS
 In this section, you can find official BSD OSes links (in alphabetical order) with short descriptions as can be found on their pages. 
 
 ### BSD Router Project
-BSD Router Project (BSDRP) is an embedded free and open-source router distribution based on [FreeBSD](https://www.freebsd.org/) with [Quagga](https://www.quagga.net/) and [BIRD](https://bird.network.cz/).
+BSD Router Project (BSDRP) is an embedded free and open-source router distribution based on [FreeBSD](https://www.freebsd.org/) with [FRRouting](https://frrouting.org/) and [BIRD](https://bird.network.cz/).
 
 * [official site](https://bsdrp.net/)
 * [download](https://bsdrp.net/downloads?DokuWiki=e8a2af21cc91416f910347e472b73841)
@@ -53,7 +53,7 @@ Founded in 1993, FreeBSD is an advanced operating system that powers modern [des
 * [X](https://x.com/freebsd)
 
 ### GhostBSD
-GhostBSD is a user-friendly BSD operating system built on top of [FreeBSD](#freebsd). GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available in both 32- and 64-bit versions, GhostBSD is suitable for newcomers, as well as experienced BSD users.
+GhostBSD is a user-friendly BSD operating system built on top of [FreeBSD](#freebsd). GhostBSD aims to provide a familiar workstation with all of the features and benefits of FreeBSD, combined with a twist that is the MATE desktop environment and a focus on user-friendliness. Available for 64-bit (amd64) systems, GhostBSD is suitable for newcomers, as well as experienced BSD users.
 
 * [official site](https://www.ghostbsd.org/)
 * [download](https://www.ghostbsd.org/download)
@@ -133,7 +133,7 @@ OPNsense is an open source,easy-to-use and easy-to-build FreeBSD based firewall 
 
 * [official site](https://opnsense.org)
 * [download](https://opnsense.org/download/)
-* [mailing list](https://opnsense.org/support-overview/mailing-list/)
+* [forum](https://forum.opnsense.org/)
 * [/r/opnsense](https://www.reddit.com/r/opnsense)
 * [/r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall)
 * [Twitter](https://twitter.com/opnsense)
@@ -244,7 +244,6 @@ In this section, you can find sites presenting news about BSD.
 ## Learning
 
 * [The BSD Certification Group](http://www.bsdcertification.org/) – a non-profit organization committed to creating and maintaining a global certification standard for system administration on BSD-based operating systems.
-* [TeachBSD](http://teachbsd.org/) – Teaching Operating Systems with Tracing: a set of courses for students and software practitioners. 
 
 ## Books
 
